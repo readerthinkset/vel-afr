@@ -34,7 +34,42 @@
       "transliteration": "Dit smaak, heer-lik.",
       "category": "Restaurant",
       "generated_at": "2026-06-16T12:07:52.308696"
+    },
+    {
+      "english": "Work hard, play smart.",
+      "afrikaans": "Werk hard, speel slim.",
+      "transliteration": "V erk hart, speel slim.",
+      "category": "Balance",
+      "generated_at": "2026-06-16T12:31:20.018715"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "afrikaans": "Luister eers, praat later.",
+      "transliteration": "Lui-ster eers, praat la-ter.",
+      "category": "Balance",
+      "generated_at": "2026-06-16T12:31:20.018724"
+    },
+    {
+      "english": "Breathe deep, relax now.",
+      "afrikaans": "Haal diep asem, ontspan nou.",
+      "transliteration": "Haal deep a-sem, ont-span nou.",
+      "category": "Balance",
+      "generated_at": "2026-06-16T12:31:20.018726"
+    },
+    {
+      "english": "Plan ahead, act wisely.",
+      "afrikaans": "Beplan vooruit, handel wys.",
+      "transliteration": "Be-plan voor-uit, han-del wys.",
+      "category": "Balance",
+      "generated_at": "2026-06-16T12:31:20.018727"
+    },
+    {
+      "english": "Give your best, nothing less.",
+      "afrikaans": "Gee jou beste, niks minder.",
+      "transliteration": "Ghee jou bes-te, niks min-der.",
+      "category": "Balance",
+      "generated_at": "2026-06-16T12:31:20.018729"
     }
   ],
-  "last_updated": "2026-06-16T12:07:52.308698"
+  "last_updated": "2026-06-16T12:31:20.018730"
 }
