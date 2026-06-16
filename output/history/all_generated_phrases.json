@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "A table for two, please.",
+      "afrikaans": "Een tafel, vir twee, asseblief.",
+      "transliteration": "Een ta-fel, vir twee, as-se-blief.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-16T12:07:52.308681"
+    },
+    {
+      "english": "Can I see, the menu?",
+      "afrikaans": "Mag ek, die spyskaart sien?",
+      "transliteration": "Mag ek, die spys-kaart seen?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-16T12:07:52.308692"
+    },
+    {
+      "english": "What do you recommend?",
+      "afrikaans": "Wat beveel u, aan?",
+      "transliteration": "Wat be-veel u, aan?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-16T12:07:52.308694"
+    },
+    {
+      "english": "We are ready, to order.",
+      "afrikaans": "Ons is gereed, om te bestel.",
+      "transliteration": "Ons is ge-red, om te bes-tel.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-16T12:07:52.308695"
+    },
+    {
+      "english": "This tastes, delicious.",
+      "afrikaans": "Dit smaak, heerlik.",
+      "transliteration": "Dit smaak, heer-lik.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-16T12:07:52.308696"
+    }
+  ],
+  "last_updated": "2026-06-16T12:07:52.308698"
+}
