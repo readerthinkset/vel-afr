@@ -209,7 +209,42 @@
       "transliteration": "Moo-nee bahng vays, pro-bayr veer.",
       "category": "Confidence",
       "generated_at": "2026-06-17T03:51:35.974133"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "afrikaans": "Dankie, vir alles.",
+      "transliteration": "Dahn-kee, feer ah-less.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T15:22:08.175679"
+    },
+    {
+      "english": "I appreciate this, so much.",
+      "afrikaans": "Ek waardeer dit, baie.",
+      "transliteration": "Ek vahr-dayr dit, bah-yeh.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T15:22:08.175687"
+    },
+    {
+      "english": "Your kindness, is a gift.",
+      "afrikaans": "U vriendelikheid, is 'n geskenk.",
+      "transliteration": "Oo freend-uh-lik-hayt, is 'n ghe-skenk.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T15:22:08.175687"
+    },
+    {
+      "english": "Grateful for your help.",
+      "afrikaans": "Dankbaar vir u hulp.",
+      "transliteration": "Dahnk-bahr feer oo hewlp.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T15:22:08.175689"
+    },
+    {
+      "english": "This means a lot.",
+      "afrikaans": "Dit beteken baie.",
+      "transliteration": "Dit buh-tay-ken bah-yeh.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T15:22:08.175689"
     }
   ],
-  "last_updated": "2026-06-17T03:51:35.974134"
+  "last_updated": "2026-06-17T15:22:08.175690"
 }
