@@ -454,7 +454,42 @@
       "transliteration": "Hoo-yuh-moh-ruh, froo-uh fow-el.",
       "category": "Greetings",
       "generated_at": "2026-06-18T19:46:12.908240"
+    },
+    {
+      "english": "Hello, how are you?",
+      "afrikaans": "Hallo, hoe gaan dit?",
+      "transliteration": "Ha-lo, hoo gahn dit?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T22:54:00.124946"
+    },
+    {
+      "english": "Thank you, very much.",
+      "afrikaans": "Baie dankie, regtig.",
+      "transliteration": "Ba-ye dank-ee, reg-tig.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T22:54:00.124955"
+    },
+    {
+      "english": "Yes, please.",
+      "afrikaans": "Ja, asseblief.",
+      "transliteration": "Ya, a-se-bleef.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T22:54:00.124957"
+    },
+    {
+      "english": "No, thank you.",
+      "afrikaans": "Nee, dankie.",
+      "transliteration": "Nay, dank-ee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T22:54:00.124958"
+    },
+    {
+      "english": "Excuse me, please.",
+      "afrikaans": "Verskoon my, asseblief.",
+      "transliteration": "Ver-skoon my, a-se-bleef.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T22:54:00.124960"
     }
   ],
-  "last_updated": "2026-06-18T19:46:12.908242"
+  "last_updated": "2026-06-18T22:54:00.124961"
 }
