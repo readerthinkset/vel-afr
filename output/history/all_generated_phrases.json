@@ -419,7 +419,42 @@
       "transliteration": "Bou yoh fee-see, klip fir klip.",
       "category": "Creativity",
       "generated_at": "2026-06-18T17:08:39.131787"
+    },
+    {
+      "english": "Hello there, good day.",
+      "afrikaans": "Goeie dag, hallo.",
+      "transliteration": "Hoo-yuh dakh, hah-loh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T19:46:12.908227"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "afrikaans": "Aangenaam om jou te ontmoet.",
+      "transliteration": "Ahng-uh-nahm om yow tuh ohnt-moot.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T19:46:12.908236"
+    },
+    {
+      "english": "How are you, friend?",
+      "afrikaans": "Hoe gaan dit, vriend?",
+      "transliteration": "Hoo gahn dit, vreehnt?",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T19:46:12.908238"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "afrikaans": "Welkom, asseblief kom binne.",
+      "transliteration": "Vel-kom, ahs-uh-bleef kom bin-nuh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T19:46:12.908239"
+    },
+    {
+      "english": "Good morning, early bird.",
+      "afrikaans": "Goeiemôre, vroeë voël.",
+      "transliteration": "Hoo-yuh-moh-ruh, froo-uh fow-el.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T19:46:12.908240"
     }
   ],
-  "last_updated": "2026-06-18T17:08:39.131788"
+  "last_updated": "2026-06-18T19:46:12.908242"
 }
