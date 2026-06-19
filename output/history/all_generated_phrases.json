@@ -489,7 +489,42 @@
       "transliteration": "Ver-skoon my, a-se-bleef.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-18T22:54:00.124960"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "afrikaans": "Glo in jouself, jy kan dit doen.",
+      "transliteration": "Gloo fin yoo-self, yee kahn dit din.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T04:02:02.478820"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "afrikaans": "Môre is 'n nuwe kans.",
+      "transliteration": "Mo-ra is 'n nu-va kahns.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T04:02:02.478831"
+    },
+    {
+      "english": "A brighter future awaits us.",
+      "afrikaans": " 'n Helder toekoms wag vir ons.",
+      "transliteration": "'n Hel-der too-koms vahg fir ons.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T04:02:02.478832"
+    },
+    {
+      "english": "Every step forward counts.",
+      "afrikaans": "Elke tree vorentoe tel.",
+      "transliteration": "El-ka tray for-en-too tel.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T04:02:02.478847"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "afrikaans": "Jy is sterker as wat jy dink.",
+      "transliteration": "Yee is ster-ker as vaht yee dink.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T04:02:02.478848"
     }
   ],
-  "last_updated": "2026-06-18T22:54:00.124961"
+  "last_updated": "2026-06-19T04:02:02.478849"
 }
