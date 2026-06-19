@@ -559,7 +559,42 @@
       "transliteration": "Hooi-eh-DAKH, hooi-eh BOY.",
       "category": "Happiness",
       "generated_at": "2026-06-19T15:10:21.306095"
+    },
+    {
+      "english": "Help, please, quickly!",
+      "afrikaans": "Hulp, asseblief, gou!",
+      "transliteration": "Hulp, as-bleef, gow!",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T16:31:52.833983"
+    },
+    {
+      "english": "I need a doctor, now.",
+      "afrikaans": "Ek benodig 'n dokter, nou.",
+      "transliteration": "Ek be-no-dig 'n dok-ter, now.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T16:31:52.833994"
+    },
+    {
+      "english": "Where is the hospital?",
+      "afrikaans": "Waar is die hospitaal?",
+      "transliteration": "Waar is dee hos-pi-taal?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T16:31:52.833995"
+    },
+    {
+      "english": "Call the police, please.",
+      "afrikaans": "Skakel die polisie, asseblief.",
+      "transliteration": "Skah-kel dee po-lee-see, as-bleef.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T16:31:52.833997"
+    },
+    {
+      "english": "It's an emergency, sir.",
+      "afrikaans": "Dis 'n noodgeval, meneer.",
+      "transliteration": "Dis 'n noodge-val, me-neer.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T16:31:52.833998"
     }
   ],
-  "last_updated": "2026-06-19T15:10:21.306096"
+  "last_updated": "2026-06-19T16:31:52.834000"
 }
