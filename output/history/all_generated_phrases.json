@@ -804,7 +804,42 @@
       "transliteration": "Veez vreen-deh-lik, fir al-mal.",
       "category": "Positive Life",
       "generated_at": "2026-06-20T18:07:06.694437"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "afrikaans": "Goeiedag, aangename kennis.",
+      "transliteration": "Goo-ee-dahkh, ah-nah-gah-meh ken-nis.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T21:10:29.482656"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "afrikaans": "Waar is die naaste treinstasie?",
+      "transliteration": "Vahr is dee nahs-teh tren-stah-see?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T21:10:29.482666"
+    },
+    {
+      "english": "I would like a coffee, please.",
+      "afrikaans": "Ek wil graag koffie hê, asseblief.",
+      "transliteration": "Ek vil khrahkh kof-fee hay, ah-se-bleef.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T21:10:29.482668"
+    },
+    {
+      "english": "How much does this cost?",
+      "afrikaans": "Hoeveel kos dit?",
+      "transliteration": "Hoo-feel kos dit?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T21:10:29.482669"
+    },
+    {
+      "english": "Can you help me, please?",
+      "afrikaans": "Kan jy my help, asseblief?",
+      "transliteration": "Kan yuh may help, ah-se-bleef?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T21:10:29.482674"
     }
   ],
-  "last_updated": "2026-06-20T18:07:06.694439"
+  "last_updated": "2026-06-20T21:10:29.482675"
 }
