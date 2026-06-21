@@ -874,7 +874,42 @@
       "transliteration": "Ek beh-no-deeg melk, ah-seh-bleef.",
       "category": "Shopping",
       "generated_at": "2026-06-21T03:55:03.153183"
+    },
+    {
+      "english": "Could we have, the bill?",
+      "afrikaans": "Kan ons, die rekening kry?",
+      "transliteration": "Kan ons, die re-ke-ning kry?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-21T14:05:19.725627"
+    },
+    {
+      "english": "Is service, included?",
+      "afrikaans": "Is diens, ingesluit?",
+      "transliteration": "Is diens, in-ge-sluit?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-21T14:05:19.725639"
+    },
+    {
+      "english": "A glass, of water.",
+      "afrikaans": "Een glas, water.",
+      "transliteration": "Een glas, wa-ter.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-21T14:05:19.725641"
+    },
+    {
+      "english": "I'm a vegetarian.",
+      "afrikaans": "Ek is, vegetaries.",
+      "transliteration": "Ek is, ve-ge-ta-ries.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-21T14:05:19.725642"
+    },
+    {
+      "english": "Thank you, for the meal.",
+      "afrikaans": "Dankie, vir die ete.",
+      "transliteration": "Dan-kie, vir die ee-te.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-21T14:05:19.725644"
     }
   ],
-  "last_updated": "2026-06-21T03:55:03.153186"
+  "last_updated": "2026-06-21T14:05:19.725645"
 }
