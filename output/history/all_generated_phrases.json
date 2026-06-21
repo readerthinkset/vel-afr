@@ -979,7 +979,42 @@
       "transliteration": "Ek kees om tuh fer-gey-veh.",
       "category": "Forgiveness",
       "generated_at": "2026-06-21T18:16:03.966664"
+    },
+    {
+      "english": "One apple, please.",
+      "afrikaans": "Een appel, asseblief.",
+      "transliteration": "Een apel, a-se-bleef.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T21:08:43.145657"
+    },
+    {
+      "english": "Two dogs, running fast.",
+      "afrikaans": "Twee honde, hardloop vinnig.",
+      "transliteration": "Twee hon-de, hart-loop vin-nig.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T21:08:43.145665"
+    },
+    {
+      "english": "Three cars, parked here.",
+      "afrikaans": "Drie karre, hier geparkeer.",
+      "transliteration": "Drie ka-re, heer ge-pa-ker.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T21:08:43.145667"
+    },
+    {
+      "english": "Four friends, meeting soon.",
+      "afrikaans": "Vier vriende, ontmoet binnekort.",
+      "transliteration": "Vier vrin-de, ont-moet bin-ne-kort.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T21:08:43.145668"
+    },
+    {
+      "english": "Five birds, singing sweetly.",
+      "afrikaans": "Vyf voëls, sing mooi.",
+      "transliteration": "Vyf vools, sing moy.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T21:08:43.145669"
     }
   ],
-  "last_updated": "2026-06-21T18:16:03.966665"
+  "last_updated": "2026-06-21T21:08:43.145671"
 }
