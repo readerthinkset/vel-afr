@@ -839,7 +839,42 @@
       "transliteration": "Kan yuh may help, ah-se-bleef?",
       "category": "Travel",
       "generated_at": "2026-06-20T21:10:29.482674"
+    },
+    {
+      "english": "Can I help you, please?",
+      "afrikaans": "Kan ek help, asseblief?",
+      "transliteration": "Kahn ek hel-p, ah-seh-bleef?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T03:55:03.153146"
+    },
+    {
+      "english": "I am just looking, thank you.",
+      "afrikaans": "Ek kyk net, dankie.",
+      "transliteration": "Ek kake net, dahn-kee.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T03:55:03.153175"
+    },
+    {
+      "english": "Where can I find, the bread?",
+      "afrikaans": "Waar kry ek, die brood?",
+      "transliteration": "Vahr kray ek, dee bro-d?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T03:55:03.153178"
+    },
+    {
+      "english": "How much is, this shirt?",
+      "afrikaans": "Hoeveel kos, hierdie hemp?",
+      "transliteration": "Hoo-feel kos, heer-dee hemp?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T03:55:03.153180"
+    },
+    {
+      "english": "I need some milk, please.",
+      "afrikaans": "Ek benodig melk, asseblief.",
+      "transliteration": "Ek beh-no-deeg melk, ah-seh-bleef.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T03:55:03.153183"
     }
   ],
-  "last_updated": "2026-06-20T21:10:29.482675"
+  "last_updated": "2026-06-21T03:55:03.153186"
 }
