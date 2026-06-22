@@ -1084,7 +1084,42 @@
       "transliteration": "Maak moy din-geh, ayt en-fow-di-geh ee-day-as.",
       "category": "Creativity",
       "generated_at": "2026-06-22T16:53:36.935778"
+    },
+    {
+      "english": "I don't understand.",
+      "afrikaans": "Ek verstaan nie.",
+      "transliteration": "Ek ver-stahn nee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-22T18:12:16.296282"
+    },
+    {
+      "english": "Can you help me?",
+      "afrikaans": "Kan jy my help?",
+      "transliteration": "Kan yey my help?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-22T18:12:16.296291"
+    },
+    {
+      "english": "Where is the toilet?",
+      "afrikaans": "Waar is die toilet?",
+      "transliteration": "Var is dee twa-let?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-22T18:12:16.296292"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "afrikaans": "Goeie môre, almal.",
+      "transliteration": "Hoo-yuh mor-ruh, al-mal.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-22T18:12:16.296294"
+    },
+    {
+      "english": "See you later.",
+      "afrikaans": "Totsiens, later.",
+      "transliteration": "Tot-seens, la-ter.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-22T18:12:16.296295"
     }
   ],
-  "last_updated": "2026-06-22T16:53:36.935779"
+  "last_updated": "2026-06-22T18:12:16.296296"
 }
