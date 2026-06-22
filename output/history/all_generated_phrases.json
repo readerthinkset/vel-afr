@@ -1119,7 +1119,42 @@
       "transliteration": "Tot-seens, la-ter.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-22T18:12:16.296295"
+    },
+    {
+      "english": "Now, is the time.",
+      "afrikaans": "Nou, is die tyd.",
+      "transliteration": "Now, is dee teid.",
+      "category": "Time",
+      "generated_at": "2026-06-22T20:00:45.885293"
+    },
+    {
+      "english": "Later, we will see.",
+      "afrikaans": "Later, sal ons sien.",
+      "transliteration": "Laa-ter, sal ons seen.",
+      "category": "Time",
+      "generated_at": "2026-06-22T20:00:45.885301"
+    },
+    {
+      "english": "Soon, it will be here.",
+      "afrikaans": "Gou, sal dit hier wees.",
+      "transliteration": "Gow, sal dit heer vees.",
+      "category": "Time",
+      "generated_at": "2026-06-22T20:00:45.885303"
+    },
+    {
+      "english": "Yesterday, was a memory.",
+      "afrikaans": "Gister, was 'n herinnering.",
+      "transliteration": "Gis-ter, was 'n he-rin-ne-ring.",
+      "category": "Time",
+      "generated_at": "2026-06-22T20:00:45.885304"
+    },
+    {
+      "english": "Tomorrow, brings new hope.",
+      "afrikaans": "Môre, bring nuwe hoop.",
+      "transliteration": "Moh-reh, bring nyoo hoop.",
+      "category": "Time",
+      "generated_at": "2026-06-22T20:00:45.885305"
     }
   ],
-  "last_updated": "2026-06-22T18:12:16.296296"
+  "last_updated": "2026-06-22T20:00:45.885307"
 }
