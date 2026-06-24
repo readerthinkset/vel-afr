@@ -1329,7 +1329,42 @@
       "transliteration": "Oo-fen dahkh-liks, mahk fol-mahkh, vahr-lik.",
       "category": "Wisdom",
       "generated_at": "2026-06-23T21:27:51.468551"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "afrikaans": "Ek verstaan nie, jammer.",
+      "transliteration": "Ek ver-stahn nee, yah-mer.",
+      "category": "Travel",
+      "generated_at": "2026-06-24T02:56:38.791190"
+    },
+    {
+      "english": "What time is it now?",
+      "afrikaans": "Hoe laat is dit nou?",
+      "transliteration": "Hoo laht is dit now?",
+      "category": "Travel",
+      "generated_at": "2026-06-24T02:56:38.791200"
+    },
+    {
+      "english": "This is beautiful, thank you.",
+      "afrikaans": "Dis pragtig, dankie.",
+      "transliteration": "Dis prahk-tikh, dahn-kee.",
+      "category": "Travel",
+      "generated_at": "2026-06-24T02:56:38.791202"
+    },
+    {
+      "english": "Enjoy your meal, sir.",
+      "afrikaans": "Geniet jou ete, meneer.",
+      "transliteration": "Ge-neet yow ee-teh, meh-neer.",
+      "category": "Travel",
+      "generated_at": "2026-06-24T02:56:38.791203"
+    },
+    {
+      "english": "Have a good day then.",
+      "afrikaans": "Lekker dag verder dan.",
+      "transliteration": "Leh-ker dahkh fer-der dahn.",
+      "category": "Travel",
+      "generated_at": "2026-06-24T02:56:38.791205"
     }
   ],
-  "last_updated": "2026-06-23T21:27:51.468553"
+  "last_updated": "2026-06-24T02:56:38.791206"
 }
