@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Groete",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "af-ZA-WillemNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Afrikaans.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Afrikaans.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Afrikaans text should be CLEAN - use standard Afrikaans script
 7. Do NOT include multiple versions or slashes - just ONE clean Afrikaans translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Afrikaans text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Afrikaans teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Afrikaans teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Afrikaans text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Afrikaans text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "afrikaans": "[AF] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "afrikaans": "[AF] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "afrikaans": "[AF] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "afrikaans": "[AF] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "afrikaans": "[AF] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "afrikaans": "[AF] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "afrikaans": "[AF] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "afrikaans": "[AF] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "afrikaans": "[AF] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "afrikaans": "[AF] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "afrikaans": "Hallo, aangename kennis.", "transliteration": "Hallo, aangename kennis."},
+        {"english": "Thank you very much.", "afrikaans": "Baie dankie.", "transliteration": "Baie dankie."},
+        {"english": "Good morning, have a great day.", "afrikaans": "Goeiem\u00f4re, h\u00ea 'n wonderlike dag.", "transliteration": "Goeiem\u00f4re, h\u00ea 'n wonderlike dag."},
+        {"english": "I love learning new languages.", "afrikaans": "Ek is mal daaroor om nuwe tale te leer.", "transliteration": "Ek is mal daaroor om nuwe tale te leer."},
+        {"english": "Never give up on your dreams.", "afrikaans": "Moet nooit jou drome laat vaar nie.", "transliteration": "Moet nooit jou drome laat vaar nie."},
+        {"english": "Every day is a fresh start.", "afrikaans": "Elke dag is 'n vars begin.", "transliteration": "Elke dag is 'n vars begin."},
+        {"english": "Believe in yourself always.", "afrikaans": "Glo altyd in jouself.", "transliteration": "Glo altyd in jouself."},
+        {"english": "Small steps lead to big changes.", "afrikaans": "Klein stappies lei tot groot veranderinge.", "transliteration": "Klein stappies lei tot groot veranderinge."},
+        {"english": "You are stronger than you think.", "afrikaans": "Jy is sterker as wat jy dink.", "transliteration": "Jy is sterker as wat jy dink."},
+        {"english": "Happiness is a choice, choose it.", "afrikaans": "Geluk is 'n keuse, kies dit.", "transliteration": "Geluk is 'n keuse, kies dit."},
+        {"english": "What time is it please.", "afrikaans": "Hoe laat is dit asseblief.", "transliteration": "Hoe laat is dit asseblief."},
+        {"english": "Where is the train station.", "afrikaans": "Waar is die treinstasie.", "transliteration": "Waar is die treinstasie."},
+        {"english": "How much does this cost.", "afrikaans": "Hoeveel kos dit.", "transliteration": "Hoeveel kos dit."},
+        {"english": "Can you help me please.", "afrikaans": "Kan jy my asseblief help.", "transliteration": "Kan jy my asseblief help."},
+        {"english": "I would like a coffee please.", "afrikaans": "Ek sal graag 'n koffie wil h\u00ea, asseblief.", "transliteration": "Ek sal graag 'n koffie wil h\u00ea, asseblief."},
+        {"english": "The food is delicious today.", "afrikaans": "Die kos is heerlik vandag.", "transliteration": "Die kos is heerlik vandag."},
+        {"english": "Have a wonderful weekend.", "afrikaans": "H\u00ea 'n wonderlike naweek.", "transliteration": "H\u00ea 'n wonderlike naweek."},
+        {"english": "Take care of yourself.", "afrikaans": "Sorg vir jouself.", "transliteration": "Sorg vir jouself."},
+        {"english": "See you tomorrow my friend.", "afrikaans": "Tot m\u00f4re my vriend.", "transliteration": "Tot m\u00f4re my vriend."},
+        {"english": "The weather is beautiful outside.", "afrikaans": "Die weer is pragtig buite.", "transliteration": "Die weer is pragtig buite."},
+        {"english": "I am very happy today.", "afrikaans": "Ek is baie gelukkig vandag.", "transliteration": "Ek is baie gelukkig vandag."},
+        {"english": "Learning a language opens new doors.", "afrikaans": "Om 'n taal te leer, open nuwe deure.", "transliteration": "Om 'n taal te leer, open nuwe deure."},
+        {"english": "Keep practicing every single day.", "afrikaans": "Hou aan oefen elke enkele dag.", "transliteration": "Hou aan oefen elke enkele dag."},
+        {"english": "You can achieve anything you want.", "afrikaans": "Jy kan enigiets bereik wat jy wil.", "transliteration": "Jy kan enigiets bereik wat jy wil."},
+        {"english": "Rest when you are tired.", "afrikaans": "Rus wanneer jy moeg is.", "transliteration": "Rus wanneer jy moeg is."},
+        {"english": "Focus on the positive things.", "afrikaans": "Fokus op die positiewe dinge.", "transliteration": "Fokus op die positiewe dinge."},
+        {"english": "Learn from your mistakes.", "afrikaans": "Leer uit jou foute.", "transliteration": "Leer uit jou foute."},
+        {"english": "Trust the process completely.", "afrikaans": "Vertrou die proses volledig.", "transliteration": "Vertrou die proses volledig."},
+        {"english": "Breathe deeply and stay calm.", "afrikaans": "Haal diep asem en bly kalm.", "transliteration": "Haal diep asem en bly kalm."},
+        {"english": "Enjoy the little moments in life.", "afrikaans": "Geniet die klein oomblikke in die lewe.", "transliteration": "Geniet die klein oomblikke in die lewe."},
+        {"english": "Smile more, worry less.", "afrikaans": "Lag meer, bekommer jou minder.", "transliteration": "Lag meer, bekommer jou minder."},
+        {"english": "Be kind to everyone you meet.", "afrikaans": "Wees vriendelik teenoor almal wat jy ontmoet.", "transliteration": "Wees vriendelik teenoor almal wat jy ontmoet."},
+        {"english": "Help others without expecting anything back.", "afrikaans": "Help ander sonder om iets terug te verwag.", "transliteration": "Help ander sonder om iets terug te verwag."},
+        {"english": "Forgive yourself and move forward.", "afrikaans": "Vergewe jouself en beweeg aan.", "transliteration": "Vergewe jouself en beweeg aan."},
+        {"english": "Stay strong in difficult times.", "afrikaans": "Bly sterk in moeilike tye.", "transliteration": "Bly sterk in moeilike tye."},
+        {"english": "Every moment is a new beginning.", "afrikaans": "Elke oomblik is 'n nuwe begin.", "transliteration": "Elke oomblik is 'n nuwe begin."},
+        {"english": "Listen to your heart always.", "afrikaans": "Luister altyd na jou hart.", "transliteration": "Luister altyd na jou hart."},
+        {"english": "Do what makes you happy.", "afrikaans": "Doen wat jou gelukkig maak.", "transliteration": "Doen wat jou gelukkig maak."},
+        {"english": "Your potential is unlimited.", "afrikaans": "Jou potensiaal is onbeperk.", "transliteration": "Jou potensiaal is onbeperk."},
+        {"english": "Be brave and take risks.", "afrikaans": "Wees dapper en neem risiko's.", "transliteration": "Wees dapper en neem risiko's."},
+        {"english": "Celebrate your progress every day.", "afrikaans": "Vier jou vordering elke dag.", "transliteration": "Vier jou vordering elke dag."},
+        {"english": "Surround yourself with good people.", "afrikaans": "Omring jouself met goeie mense.", "transliteration": "Omring jouself met goeie mense."},
+        {"english": "Read books and grow your mind.", "afrikaans": "Lees boeke en laat groei jou verstand.", "transliteration": "Lees boeke en laat groei jou verstand."},
+        {"english": "Travel and discover new places.", "afrikaans": "Reis en ontdek nuwe plekke.", "transliteration": "Reis en ontdek nuwe plekke."},
+        {"english": "Appreciate what you already have.", "afrikaans": "Waardeer wat jy reeds het.", "transliteration": "Waardeer wat jy reeds het."},
+        {"english": "Dance like nobody is watching.", "afrikaans": "Dans asof niemand kyk nie.", "transliteration": "Dans asof niemand kyk nie."},
+        {"english": "Sing from your heart out loud.", "afrikaans": "Sing uit jou hart uit.", "transliteration": "Sing uit jou hart uit."},
+        {"english": "Plant seeds of kindness everywhere.", "afrikaans": "Saai saad van vriendelikheid oral.", "transliteration": "Saai saad van vriendelikheid oral."},
+        {"english": "Let go of what you cannot control.", "afrikaans": "Laat gaan wat jy nie kan beheer nie.", "transliteration": "Laat gaan wat jy nie kan beheer nie."},
+        {"english": "Be present in the here and now.", "afrikaans": "Wees teenwoordig in die hier en nou.", "transliteration": "Wees teenwoordig in die hier en nou."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "afrikaans"
-    for p in fresh:
-        p[lang_key] = p.pop("afrikaans")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
