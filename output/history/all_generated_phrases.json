@@ -1469,7 +1469,42 @@
       "transliteration": "Ek vahr-dehr ons vrrin-skahp, bah-yeh.",
       "category": "Friendship",
       "generated_at": "2026-06-24T21:19:25.602271"
+    },
+    {
+      "english": "Do you have, this in blue?",
+      "afrikaans": "Het julle, dit in blou?",
+      "transliteration": "Het yuh-luh, dit in blow?",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T02:56:01.909526"
+    },
+    {
+      "english": "I will take this one, please.",
+      "afrikaans": "Ek vat hierdie een, asseblief.",
+      "transliteration": "Ek fat heer-dee een, ah-seh-bleef.",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T02:56:01.909535"
+    },
+    {
+      "english": "Where is the till, please?",
+      "afrikaans": "Waar is die betaalpunt, asseblief?",
+      "transliteration": "Vahr is dee beh-tahl-point, ah-seh-bleef?",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T02:56:01.909536"
+    },
+    {
+      "english": "Can I pay, by card?",
+      "afrikaans": "Kan ek betaal, met kaart?",
+      "transliteration": "Kahn ek beh-tahl, met kahrt?",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T02:56:01.909541"
+    },
+    {
+      "english": "Thank you, have a good day.",
+      "afrikaans": "Dankie, geniet die dag.",
+      "transliteration": "Dahn-kee, geh-neet dee dahg.",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T02:56:01.909543"
     }
   ],
-  "last_updated": "2026-06-24T21:19:25.602272"
+  "last_updated": "2026-06-25T02:56:01.909546"
 }
