@@ -1749,7 +1749,42 @@
       "transliteration": "Ons be-no-dig, nog bit-jie teid.",
       "category": "Restaurant",
       "generated_at": "2026-06-28T15:16:56.485801"
+    },
+    {
+      "english": "My heart, is full of joy.",
+      "afrikaans": "My hart, is vol vreugde.",
+      "transliteration": "Mei hart, is fol freug-deh.",
+      "category": "Feelings",
+      "generated_at": "2026-06-28T18:00:40.916190"
+    },
+    {
+      "english": "A little, bit of sadness.",
+      "afrikaans": "N bietjie, hartseer.",
+      "transliteration": "N bie-kie, hart-sair.",
+      "category": "Feelings",
+      "generated_at": "2026-06-28T18:00:40.916198"
+    },
+    {
+      "english": "Feeling quite, tired today.",
+      "afrikaans": "Voel nogal, moeg vandag.",
+      "transliteration": "Fol nog-hal, moeg fan-dag.",
+      "category": "Feelings",
+      "generated_at": "2026-06-28T18:00:40.916199"
+    },
+    {
+      "english": "So much, excitement, builds up.",
+      "afrikaans": "Soveel, opwinding, bou op.",
+      "transliteration": "So-feel, op-win-ding, bou op.",
+      "category": "Feelings",
+      "generated_at": "2026-06-28T18:00:40.916201"
+    },
+    {
+      "english": "A sudden, wave of fear.",
+      "afrikaans": "N skielike, golf van vrees.",
+      "transliteration": "N skie-li-keh, golf fan freese.",
+      "category": "Feelings",
+      "generated_at": "2026-06-28T18:00:40.916202"
     }
   ],
-  "last_updated": "2026-06-28T15:16:56.485803"
+  "last_updated": "2026-06-28T18:00:40.916203"
 }
