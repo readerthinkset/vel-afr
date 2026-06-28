@@ -1644,7 +1644,42 @@
       "transliteration": "Om-helss dee oyt-dah-khing.",
       "category": "Success",
       "generated_at": "2026-06-27T20:55:23.223732"
+    },
+    {
+      "english": "The sky, is clear today.",
+      "afrikaans": "Die lug, is vandag helder.",
+      "transliteration": "Dee lukh, is fun-dahkh hell-ter.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:03.161515"
+    },
+    {
+      "english": "A gentle breeze, is blowing.",
+      "afrikaans": "'n Sagte briesie, waai.",
+      "transliteration": "'n Sakh-te brees-seh, vigh.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:03.161524"
+    },
+    {
+      "english": "Watch out, for the rain.",
+      "afrikaans": "Pas op, vir die reën.",
+      "transliteration": "Pahs op, fir dee rayn.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:03.161525"
+    },
+    {
+      "english": "It's getting quite cold.",
+      "afrikaans": "Dit raak nogal koud.",
+      "transliteration": "Dit rarkh nokh-gahl kowt.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:03.161527"
+    },
+    {
+      "english": "The sun, is shining brightly.",
+      "afrikaans": "Die son, skyn helder.",
+      "transliteration": "Dee son, skine hell-ter.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:03.161528"
     }
   ],
-  "last_updated": "2026-06-27T20:55:23.223734"
+  "last_updated": "2026-06-28T03:33:03.161529"
 }
