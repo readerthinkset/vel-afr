@@ -1959,7 +1959,42 @@
       "transliteration": "Dit is, bah-yeh kowt.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-29T19:00:25.447304"
+    },
+    {
+      "english": "Your voice, matters here.",
+      "afrikaans": "Jou stem, tel hier.",
+      "transliteration": "Yow stem, tel heer.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T21:20:54.397278"
+    },
+    {
+      "english": "Unlock your, Afrikaans.",
+      "afrikaans": "Ontsluit jou, Afrikaans.",
+      "transliteration": "Ont-sloyt yoh, Afrikaans.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T21:20:54.397289"
+    },
+    {
+      "english": "Embrace the learning, journey.",
+      "afrikaans": "Omhels die leer, reis.",
+      "transliteration": "Om-hels dee leer, rayss.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T21:20:54.397291"
+    },
+    {
+      "english": "You are growing, stronger.",
+      "afrikaans": "Jy groei, sterker.",
+      "transliteration": "Hey groo-ee, sterk-er.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T21:20:54.397292"
+    },
+    {
+      "english": "Dare to speak, boldly.",
+      "afrikaans": "Waag om te praat, vrymoedig.",
+      "transliteration": "Vahg om teh praht, fray-moo-dekh.",
+      "category": "Confidence",
+      "generated_at": "2026-06-29T21:20:54.397293"
     }
   ],
-  "last_updated": "2026-06-29T19:00:25.447306"
+  "last_updated": "2026-06-29T21:20:54.397295"
 }
