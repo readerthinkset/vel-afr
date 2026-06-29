@@ -1819,7 +1819,42 @@
       "transliteration": "Fer-ken nü-veh geu-reh, vind yow ey-eh.",
       "category": "Culture",
       "generated_at": "2026-06-28T20:56:47.074023"
+    },
+    {
+      "english": "Save early, live richly.",
+      "afrikaans": "Spaar vroeg, leef ryk.",
+      "transliteration": "Spa-ar froogh, leef reik.",
+      "category": "Finance",
+      "generated_at": "2026-06-29T03:37:34.213404"
+    },
+    {
+      "english": "Invest wisely, grow wealth.",
+      "afrikaans": "Belê verstandig, groei rykdom.",
+      "transliteration": "Be-lay fer-stun-dug, groo-ee reik-dum.",
+      "category": "Finance",
+      "generated_at": "2026-06-29T03:37:34.213414"
+    },
+    {
+      "english": "Budget matters, much.",
+      "afrikaans": "Begroting tel, baie.",
+      "transliteration": "Be-groh-ting tel, baai-yeh.",
+      "category": "Finance",
+      "generated_at": "2026-06-29T03:37:34.213416"
+    },
+    {
+      "english": "Debt free, feels good.",
+      "afrikaans": "Skuldvry, voel goed.",
+      "transliteration": "Skuld-frey, fool khoot.",
+      "category": "Finance",
+      "generated_at": "2026-06-29T03:37:34.213417"
+    },
+    {
+      "english": "Small savings, big future.",
+      "afrikaans": "Klein spaar, groot toekoms.",
+      "transliteration": "Klein spa-ar, groht too-kohms.",
+      "category": "Finance",
+      "generated_at": "2026-06-29T03:37:34.213418"
     }
   ],
-  "last_updated": "2026-06-28T20:56:47.074024"
+  "last_updated": "2026-06-29T03:37:34.213420"
 }
