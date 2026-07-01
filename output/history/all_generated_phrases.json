@@ -2274,7 +2274,42 @@
       "transliteration": "Mach noo-weh deh-reh oop, nah ghe-lehn-theh-deh.",
       "category": "Purpose",
       "generated_at": "2026-07-01T16:28:13.897510"
+    },
+    {
+      "english": "One minute, please, just one.",
+      "afrikaans": "Een minuut, asseblief, net een.",
+      "transliteration": "Een minuut, as-bleef, net een.",
+      "category": "Numbers",
+      "generated_at": "2026-07-01T18:56:49.911905"
+    },
+    {
+      "english": "Two hours, maybe, then we leave.",
+      "afrikaans": "Twee ure, dalk, dan vertrek ons.",
+      "transliteration": "Twee u-reh, dalk, dan fer-trek ons.",
+      "category": "Numbers",
+      "generated_at": "2026-07-01T18:56:49.911914"
+    },
+    {
+      "english": "Three days, no more, we're done.",
+      "afrikaans": "Drie dae, nie meer, ons is klaar.",
+      "transliteration": "Drie da-eh, nee meer, ons is klahr.",
+      "category": "Numbers",
+      "generated_at": "2026-07-01T18:56:49.911916"
+    },
+    {
+      "english": "Four weeks, a long time, isn't it?",
+      "afrikaans": "Vier weke, 'n lang tyd, nie waar nie?",
+      "transliteration": "Veer ve-keh, 'n lang teit, nee vahr nee?",
+      "category": "Numbers",
+      "generated_at": "2026-07-01T18:56:49.911917"
+    },
+    {
+      "english": "Five miles, almost there, so close.",
+      "afrikaans": "Vyf myl, amper daar, so naby.",
+      "transliteration": "Feif meil, am-per dahr, so nah-beh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-01T18:56:49.911919"
     }
   ],
-  "last_updated": "2026-07-01T16:28:13.897512"
+  "last_updated": "2026-07-01T18:56:49.911920"
 }
