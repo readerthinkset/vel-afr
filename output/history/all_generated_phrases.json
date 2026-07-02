@@ -2379,7 +2379,42 @@
       "transliteration": "Grah-vuh deep, vind yoh vast-ei-heid.",
       "category": "Strength",
       "generated_at": "2026-07-02T02:57:51.718371"
+    },
+    {
+      "english": "Listen closely, the wind whispers.",
+      "afrikaans": "Luister mooi, die wind fluister.",
+      "transliteration": "Luister mooi, dee vint fluister.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T13:54:38.314318"
+    },
+    {
+      "english": "Sunlight paints the leaves gold.",
+      "afrikaans": "Sonnlig verf die blare goud.",
+      "transliteration": "Sonnelig verf dee blare goud.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T13:54:38.314325"
+    },
+    {
+      "english": "A quiet stream, flows gently.",
+      "afrikaans": "‘n Stille stroom, vloei sagkens.",
+      "transliteration": "Un stille stroom, vlooi sagkens.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T13:54:38.314326"
+    },
+    {
+      "english": "Mountains stand, so very tall.",
+      "afrikaans": "Berge staan, so baie hoog.",
+      "transliteration": "Berge staan, so baie hoog.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T13:54:38.314328"
+    },
+    {
+      "english": "Birds sing, a morning song.",
+      "afrikaans": "Voëls sing, ‘n oggendlied.",
+      "transliteration": "Vools sing, un oggendleed.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T13:54:38.314329"
     }
   ],
-  "last_updated": "2026-07-02T02:57:51.718373"
+  "last_updated": "2026-07-02T13:54:38.314331"
 }
