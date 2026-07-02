@@ -2484,7 +2484,42 @@
       "transliteration": "Romige sop, N vertroostende ete.",
       "category": "Food",
       "generated_at": "2026-07-02T18:24:03.932321"
+    },
+    {
+      "english": "Go for gold, win the race.",
+      "afrikaans": "Gaan vir goud, wen die wedloop.",
+      "transliteration": "Ghah fer khowt, ven dee ved-lop.",
+      "category": "Sports",
+      "generated_at": "2026-07-02T20:58:56.536685"
+    },
+    {
+      "english": "Fast feet, quick score.",
+      "afrikaans": "Vinnige voete, vinnige punt.",
+      "transliteration": "Vin-ni-ghe foot-e, vin-ni-ghe punt.",
+      "category": "Sports",
+      "generated_at": "2026-07-02T20:58:56.536694"
+    },
+    {
+      "english": "Teamwork makes, the dream work.",
+      "afrikaans": "Spanwerk maak, die droom werk.",
+      "transliteration": "Span-verk mak, dee drom verk.",
+      "category": "Sports",
+      "generated_at": "2026-07-02T20:58:56.536696"
+    },
+    {
+      "english": "Play hard, play fair.",
+      "afrikaans": "Speel hard, speel regverdig.",
+      "transliteration": "Speel harrt, speel rekh-fer-dekh.",
+      "category": "Sports",
+      "generated_at": "2026-07-02T20:58:56.536697"
+    },
+    {
+      "english": "Jump high, reach far.",
+      "afrikaans": "Spring hoog, reik ver.",
+      "transliteration": "Spring khookh, reik fer.",
+      "category": "Sports",
+      "generated_at": "2026-07-02T20:58:56.536698"
     }
   ],
-  "last_updated": "2026-07-02T18:24:03.932322"
+  "last_updated": "2026-07-02T20:58:56.536700"
 }
