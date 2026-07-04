@@ -2764,7 +2764,42 @@
       "transliteration": "Warm gedagtes, laat my glimlag.",
       "category": "Happiness",
       "generated_at": "2026-07-04T13:19:29.385427"
+    },
+    {
+      "english": "My leg, it is broken.",
+      "afrikaans": "My been, dit is gebreek.",
+      "transliteration": "Migh been, dit is brek.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T15:04:47.239096"
+    },
+    {
+      "english": "I'm feeling, very faint.",
+      "afrikaans": "Ek voel, baie flou.",
+      "transliteration": "Ek fool, bahy flaw.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T15:04:47.239105"
+    },
+    {
+      "english": "This is, not good, help!",
+      "afrikaans": "Dit is, nie goed, help!",
+      "transliteration": "Dit is, nee khood, help!",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T15:04:47.239107"
+    },
+    {
+      "english": "Someone is, seriously ill.",
+      "afrikaans": "Iemand is, ernstig siek.",
+      "transliteration": "Emant is, ernstikh seek.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T15:04:47.239108"
+    },
+    {
+      "english": "We need, urgent help.",
+      "afrikaans": "Ons benodig, dringende hulp.",
+      "transliteration": "Ons benodikh, dringendih hulp.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T15:04:47.239109"
     }
   ],
-  "last_updated": "2026-07-04T13:19:29.385429"
+  "last_updated": "2026-07-04T15:04:47.239111"
 }
