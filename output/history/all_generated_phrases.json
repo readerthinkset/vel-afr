@@ -2869,7 +2869,42 @@
       "transliteration": "Is dit, plahs-lik geh-mahk?",
       "category": "Shopping",
       "generated_at": "2026-07-04T20:49:06.607127"
+    },
+    {
+      "english": "Breathe deep, feel the calm.",
+      "afrikaans": "Haal diep asem, voel die kalmte.",
+      "transliteration": "Hahl deep ah-sem, feel deh kalm-teh.",
+      "category": "Health",
+      "generated_at": "2026-07-05T02:48:13.100127"
+    },
+    {
+      "english": "Eat well, live strong.",
+      "afrikaans": "Eet goed, leef sterk.",
+      "transliteration": "Eet khoot, leef sterk.",
+      "category": "Health",
+      "generated_at": "2026-07-05T02:48:13.100137"
+    },
+    {
+      "english": "Move your body, it's good.",
+      "afrikaans": "Beweeg jou liggaam, dit is goed.",
+      "transliteration": "Beh-vayg yow lik-khahm, dit is khoot.",
+      "category": "Health",
+      "generated_at": "2026-07-05T02:48:13.100139"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "afrikaans": "Drink water, bly gehidreer.",
+      "transliteration": "Drink wah-ter, blay gheh-hee-dreer.",
+      "category": "Health",
+      "generated_at": "2026-07-05T02:48:13.100140"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "afrikaans": "Slaap rustig, word vars wakker.",
+      "transliteration": "Slahp rus-tik, vord fers vakk-er.",
+      "category": "Health",
+      "generated_at": "2026-07-05T02:48:13.100141"
     }
   ],
-  "last_updated": "2026-07-04T20:49:06.607129"
+  "last_updated": "2026-07-05T02:48:13.100143"
 }
