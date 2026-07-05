@@ -2904,7 +2904,42 @@
       "transliteration": "Slahp rus-tik, vord fers vakk-er.",
       "category": "Health",
       "generated_at": "2026-07-05T02:48:13.100141"
+    },
+    {
+      "english": "The lion roars, loud and proud.",
+      "afrikaans": "Die leeu brul, hard en trots.",
+      "transliteration": "Dee lay-oo brul, hart een trots.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:25:50.233892"
+    },
+    {
+      "english": "A tiny mouse, scurries past.",
+      "afrikaans": "‘n Klein muis, gly verby.",
+      "transliteration": "Un kline mays, hlih fer-by.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:25:50.233902"
+    },
+    {
+      "english": "The elephant drinks, from the river.",
+      "afrikaans": "Die olifant drink, uit die rivier.",
+      "transliteration": "Dee oh-lee-fant drink, ate dee ri-feer.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:25:50.233903"
+    },
+    {
+      "english": "Penguins waddle, on the ice.",
+      "afrikaans": "Pikkewyne waggel, op die ys.",
+      "transliteration": "Pi-keh-vine wug-el, op dee is.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:25:50.233904"
+    },
+    {
+      "english": "A snake slithers, through the grass.",
+      "afrikaans": "‘n slang gly, deur die gras.",
+      "transliteration": "Un slang hlih, door dee hras.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:25:50.233905"
     }
   ],
-  "last_updated": "2026-07-05T02:48:13.100143"
+  "last_updated": "2026-07-05T13:25:50.233907"
 }
