@@ -3079,7 +3079,42 @@
       "transliteration": "Om-hels dee uit-dah-hing, blooi.",
       "category": "Growth",
       "generated_at": "2026-07-06T02:54:54.911709"
+    },
+    {
+      "english": "Listen closely, repeat slowly.",
+      "afrikaans": "Luister mooi, herhaal stadig.",
+      "transliteration": "Luister mooi, herhaal stad-ee.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T15:26:29.106101"
+    },
+    {
+      "english": "Look up, then down.",
+      "afrikaans": "Kyk op, dan af.",
+      "transliteration": "Kyk oop, dan af.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T15:26:29.106111"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "afrikaans": "Probeer weer, moenie moed opgee nie.",
+      "transliteration": "Probeer veer, moenee mood oop gape nee.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T15:26:29.106113"
+    },
+    {
+      "english": "Write this word, now.",
+      "afrikaans": "Skryf hierdie woord, nou.",
+      "transliteration": "Skreif here-dee woord, now.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T15:26:29.106114"
+    },
+    {
+      "english": "Say it out loud, please.",
+      "afrikaans": "Sê dit hardop, asseblief.",
+      "transliteration": "Say dit har-dop, as-se-bleef.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T15:26:29.106115"
     }
   ],
-  "last_updated": "2026-07-06T02:54:54.911711"
+  "last_updated": "2026-07-06T15:26:29.106117"
 }
