@@ -3639,7 +3639,42 @@
       "transliteration": "N an-gha-nah-meh ont-moo-ting, verk-lik.",
       "category": "Greetings",
       "generated_at": "2026-07-09T18:46:58.341724"
+    },
+    {
+      "english": "This shirt, feels nice.",
+      "afrikaans": "Hierdie hemp, voel lekker.",
+      "transliteration": "Hee-ree-yeh hemp, fool leh-ker.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T21:17:51.660479"
+    },
+    {
+      "english": "Where are my shoes?",
+      "afrikaans": "Waar is my skoene?",
+      "transliteration": "Vwaar is my skoo-neh?",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T21:17:51.660488"
+    },
+    {
+      "english": "A warm scarf, for winter.",
+      "afrikaans": "’n Warm serpie, vir winter.",
+      "transliteration": "’n Vwarm ser-pee, vir vin-ter.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T21:17:51.660490"
+    },
+    {
+      "english": "My new dress, is blue.",
+      "afrikaans": "My nuwe rok, is blou.",
+      "transliteration": "My new-veh rok, is blou.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T21:17:51.660491"
+    },
+    {
+      "english": "These trousers, are too big.",
+      "afrikaans": "Hierdie broek, is te groot.",
+      "transliteration": "Hee-ree-yeh broek, is teh hroot.",
+      "category": "Clothes",
+      "generated_at": "2026-07-09T21:17:51.660492"
     }
   ],
-  "last_updated": "2026-07-09T18:46:58.341725"
+  "last_updated": "2026-07-09T21:17:51.660494"
 }
