@@ -3499,7 +3499,42 @@
       "transliteration": "Druk yoh ghren-seh, seen wat ghuh-beur.",
       "category": "Sports",
       "generated_at": "2026-07-08T21:00:55.087140"
+    },
+    {
+      "english": "We're feeling peckish, let's eat.",
+      "afrikaans": "Ons is lus, vir ietsie.",
+      "transliteration": "Ons is lus, vir 'ee-tsee.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-09T02:41:16.088947"
+    },
+    {
+      "english": "What's the catch, of the day?",
+      "afrikaans": "Wat is, die vang, van die dag?",
+      "transliteration": "Vat is, die vang, fan die dakh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-09T02:41:16.088956"
+    },
+    {
+      "english": "This starter, is quite special.",
+      "afrikaans": "Hierdie voorgereg, is nogal spesiaal.",
+      "transliteration": "Heer-dee-veh-or-reh-g, is nog-hal spe-see-al.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-09T02:41:16.088958"
+    },
+    {
+      "english": "Could we have, some bread, please?",
+      "afrikaans": "Mag ons, 'n bietjie brood, kry?",
+      "transliteration": "Makh ons, 'n bee-tchee broht, kri?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-09T02:41:16.088959"
+    },
+    {
+      "english": "My friend is allergic, to nuts.",
+      "afrikaans": "My vriend, is allergies, vir neute.",
+      "transliteration": "Mi freent, is al-leh-ghees, vir neh-tuh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-09T02:41:16.088964"
     }
   ],
-  "last_updated": "2026-07-08T21:00:55.087142"
+  "last_updated": "2026-07-09T02:41:16.088966"
 }
