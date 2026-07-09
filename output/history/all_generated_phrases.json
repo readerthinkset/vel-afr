@@ -3604,7 +3604,42 @@
       "transliteration": "Yow for-owt-khang, is sikh-bar.",
       "category": "Strength",
       "generated_at": "2026-07-09T16:26:24.973498"
+    },
+    {
+      "english": "Greetings, traveler, come closer.",
+      "afrikaans": "Groete, reisiger, kom nader.",
+      "transliteration": "Groo-teh, ray-zee-gerr, kom nah-derr.",
+      "category": "Greetings",
+      "generated_at": "2026-07-09T18:46:58.341709"
+    },
+    {
+      "english": "Ah, a new face, splendid!",
+      "afrikaans": "Ag, 'n nuwe gesig, wonderlik!",
+      "transliteration": "Ah, n nu-weh ghe-sikh, vun-derr-lik!",
+      "category": "Greetings",
+      "generated_at": "2026-07-09T18:46:58.341719"
+    },
+    {
+      "english": "So you've arrived, excellent.",
+      "afrikaans": "So jy het aangekom, uitstekend.",
+      "transliteration": "So yai het an-gha-kom, oyt-steh-kend.",
+      "category": "Greetings",
+      "generated_at": "2026-07-09T18:46:58.341721"
+    },
+    {
+      "english": "Well met, stranger, welcome.",
+      "afrikaans": "Goed ontmoet, vreemdeling, welkom.",
+      "transliteration": "Khood ont-moot, vreem-de-ling, vel-kom.",
+      "category": "Greetings",
+      "generated_at": "2026-07-09T18:46:58.341723"
+    },
+    {
+      "english": "A pleasant encounter, truly.",
+      "afrikaans": "'n Aangename ontmoeting, werklik.",
+      "transliteration": "N an-gha-nah-meh ont-moo-ting, verk-lik.",
+      "category": "Greetings",
+      "generated_at": "2026-07-09T18:46:58.341724"
     }
   ],
-  "last_updated": "2026-07-09T16:26:24.973500"
+  "last_updated": "2026-07-09T18:46:58.341725"
 }
