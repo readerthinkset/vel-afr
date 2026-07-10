@@ -3674,7 +3674,42 @@
       "transliteration": "Hee-ree-yeh broek, is teh hroot.",
       "category": "Clothes",
       "generated_at": "2026-07-09T21:17:51.660492"
+    },
+    {
+      "english": "The clouds, are gathering speed.",
+      "afrikaans": "Die wolke, begin versnel.",
+      "transliteration": "Dee wol-kuh, vur-be-gin fer-snel.",
+      "category": "Weather",
+      "generated_at": "2026-07-10T02:44:24.261469"
+    },
+    {
+      "english": "A sudden gust, of wind arrived.",
+      "afrikaans": "'n Skielike rukwind, het aangekom.",
+      "transliteration": "'n Skeel-uh-kuh ruk-vind, het ahn-guh-kom.",
+      "category": "Weather",
+      "generated_at": "2026-07-10T02:44:24.261482"
+    },
+    {
+      "english": "Looks like, a storm is brewing.",
+      "afrikaans": "Dit lyk, of daar 'n storm broei.",
+      "transliteration": "Dit leek, of dahr 'n storm broy.",
+      "category": "Weather",
+      "generated_at": "2026-07-10T02:44:24.261485"
+    },
+    {
+      "english": "The air, feels thick and heavy.",
+      "afrikaans": "Die lug, voel dig en swaar.",
+      "transliteration": "Dee lug, fool dich en swahr.",
+      "category": "Weather",
+      "generated_at": "2026-07-10T02:44:24.261487"
+    },
+    {
+      "english": "Expect, some scattered showers.",
+      "afrikaans": "Verwag, 'n paar verspreide buie.",
+      "transliteration": "Fur-vahg, 'n pahr fur-spry-duh buy-uh.",
+      "category": "Weather",
+      "generated_at": "2026-07-10T02:44:24.261488"
     }
   ],
-  "last_updated": "2026-07-09T21:17:51.660494"
+  "last_updated": "2026-07-10T02:44:24.261489"
 }
