@@ -4094,7 +4094,42 @@
       "transliteration": "Hohr dee lag, EH-koh vait",
       "category": "Culture",
       "generated_at": "2026-07-12T13:14:34.542568"
+    },
+    {
+      "english": "Focus your attention, please.",
+      "afrikaans": "Fokus jou aandag, asseblief.",
+      "transliteration": "Foh-kus yoh ahn-dahkh, ahs-seh-bleef.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T14:54:34.281547"
+    },
+    {
+      "english": "Think about this, carefully.",
+      "afrikaans": "Dink hieraan, versigtig.",
+      "transliteration": "Dink heer-ahn, fer-sik-tikh.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T14:54:34.281556"
+    },
+    {
+      "english": "Picture the scene, now.",
+      "afrikaans": "Verbeel jou die toneel, nou.",
+      "transliteration": "Fer-bayl yoh dee toh-nayl, now.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T14:54:34.281558"
+    },
+    {
+      "english": "Imagine this sound, listen.",
+      "afrikaans": "Verbeel jou hierdie klank, luister.",
+      "transliteration": "Fer-bayl yoh heer-dee klahnk, loy-ster.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T14:54:34.281559"
+    },
+    {
+      "english": "Sense the feeling, breathe.",
+      "afrikaans": "Voel die gevoel, haal asem.",
+      "transliteration": "Fool dee fer-hool, hahl ah-sem.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T14:54:34.281560"
     }
   ],
-  "last_updated": "2026-07-12T13:14:34.542571"
+  "last_updated": "2026-07-12T14:54:34.281562"
 }
