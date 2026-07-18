@@ -5074,7 +5074,42 @@
       "transliteration": "Is al-mal ge-red, om teh bi-gin?",
       "category": "Work",
       "generated_at": "2026-07-18T02:08:55.624787"
+    },
+    {
+      "english": "Your words, are taking flight.",
+      "afrikaans": "Jou woorde, neem vlerke.",
+      "transliteration": "Yow VOOR-deh, nehm VLER-keh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T13:08:44.642202"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "afrikaans": "Luister nou, na jou hart.",
+      "transliteration": "LOO-ster NOW, nah yow HART.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T13:08:44.642213"
+    },
+    {
+      "english": "Each small step, builds a path.",
+      "afrikaans": "Elke klein tree, bou 'n pad.",
+      "transliteration": "EL-keh kleyne TREH, bow 'n PAD.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T13:08:44.642214"
+    },
+    {
+      "english": "Feel the rhythm, of the language.",
+      "afrikaans": "Voel die ritme, van die taal.",
+      "transliteration": "FOOL dih RIT-meh, fan dih TAHL.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T13:08:44.642216"
+    },
+    {
+      "english": "Your thoughts, are becoming clear.",
+      "afrikaans": "Jou gedagtes, word helder.",
+      "transliteration": "Yow geh-DAKH-tes, VOORD HEL-der.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T13:08:44.642217"
     }
   ],
-  "last_updated": "2026-07-18T02:08:55.624789"
+  "last_updated": "2026-07-18T13:08:44.642218"
 }
