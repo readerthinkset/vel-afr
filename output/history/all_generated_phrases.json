@@ -5109,7 +5109,42 @@
       "transliteration": "Yow geh-DAKH-tes, VOORD HEL-der.",
       "category": "Confidence",
       "generated_at": "2026-07-18T13:08:44.642217"
+    },
+    {
+      "english": "The air, smells like rain.",
+      "afrikaans": "Die lug, ruik na reën.",
+      "transliteration": "Dee look, rook nah reen.",
+      "category": "Weather",
+      "generated_at": "2026-07-18T14:49:49.074712"
+    },
+    {
+      "english": "Mist, hangs low this morning.",
+      "afrikaans": "Mis, hang laag vanoggend.",
+      "transliteration": "Miss, hang lah faw-genned.",
+      "category": "Weather",
+      "generated_at": "2026-07-18T14:49:49.074721"
+    },
+    {
+      "english": "A crispness, in the autumn air.",
+      "afrikaans": "'n Knapheid, in die herfslug.",
+      "transliteration": "'n Knap-heid, in dee herf-look.",
+      "category": "Weather",
+      "generated_at": "2026-07-18T14:49:49.074723"
+    },
+    {
+      "english": "The humidity, is quite high.",
+      "afrikaans": "Die humiditeit, is nogal hoog.",
+      "transliteration": "Dee hoo-mi-di-tight, is naw-khal hoogh.",
+      "category": "Weather",
+      "generated_at": "2026-07-18T14:49:49.074725"
+    },
+    {
+      "english": "Sunbeams, pierce the grey.",
+      "afrikaans": "Sonnestrale, breek die grysheid.",
+      "transliteration": "Saw-neh-strah-leh, breyk dee gray-shed.",
+      "category": "Weather",
+      "generated_at": "2026-07-18T14:49:49.074726"
     }
   ],
-  "last_updated": "2026-07-18T13:08:44.642218"
+  "last_updated": "2026-07-18T14:49:49.074728"
 }
