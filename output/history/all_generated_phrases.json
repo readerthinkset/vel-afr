@@ -5319,7 +5319,42 @@
       "transliteration": "Na-vi-geer dee mar-ktuh, met self-fer-trow-uh.",
       "category": "Purpose",
       "generated_at": "2026-07-19T14:54:17.403901"
+    },
+    {
+      "english": "A spark, ignites within you.",
+      "afrikaans": "'n Vonk, ontvlam binne jou.",
+      "transliteration": "'n Vonk, ont-flam bin-ne jou.",
+      "category": "Hope",
+      "generated_at": "2026-07-19T17:52:37.324184"
+    },
+    {
+      "english": "Let your spirit, rise above.",
+      "afrikaans": "Laat jou gees, bo uitstyg.",
+      "transliteration": "Laat jou gees, bo oit-steig.",
+      "category": "Hope",
+      "generated_at": "2026-07-19T17:52:37.324196"
+    },
+    {
+      "english": "The path ahead, is clear.",
+      "afrikaans": "Die pad vorentoe, is helder.",
+      "transliteration": "Die pad fo-ren-toe, is hel-der.",
+      "category": "Hope",
+      "generated_at": "2026-07-19T17:52:37.324198"
+    },
+    {
+      "english": "Your courage, will blossom.",
+      "afrikaans": "Jou moed, sal blom.",
+      "transliteration": "Jou moed, sal blom.",
+      "category": "Hope",
+      "generated_at": "2026-07-19T17:52:37.324199"
+    },
+    {
+      "english": "Embrace the new, day.",
+      "afrikaans": "Omhels die nuwe, dag.",
+      "transliteration": "Om-hels die nu-we, dag.",
+      "category": "Hope",
+      "generated_at": "2026-07-19T17:52:37.324200"
     }
   ],
-  "last_updated": "2026-07-19T14:54:17.403902"
+  "last_updated": "2026-07-19T17:52:37.324202"
 }
