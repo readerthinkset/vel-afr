@@ -5669,7 +5669,42 @@
       "transliteration": "Vyf sin-tui-e, ons er-vaar.",
       "category": "Numbers",
       "generated_at": "2026-07-21T15:42:13.304244"
+    },
+    {
+      "english": "Move forward, gently.",
+      "afrikaans": "Gaan vorentoe, sagmoedig.",
+      "transliteration": "Ghaahh vo-ren-tooey, saach-moo-deech.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T18:15:18.097573"
+    },
+    {
+      "english": "Seek quiet, find strength.",
+      "afrikaans": "Soek stilte, vind krag.",
+      "transliteration": "Sook stil-teh, vind kraach.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T18:15:18.097584"
+    },
+    {
+      "english": "Begin small, grow tall.",
+      "afrikaans": "Begin klein, word hoog.",
+      "transliteration": "Be-ghin klijn, voord hooch.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T18:15:18.097587"
+    },
+    {
+      "english": "Give space, receive grace.",
+      "afrikaans": "Gee ruimte, ontvang genade.",
+      "transliteration": "Ghee ruy-mteh, ont-faang khe-naa-deh.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T18:15:18.097588"
+    },
+    {
+      "english": "Learn facts, feel truth.",
+      "afrikaans": "Leer feite, voel waarheid.",
+      "transliteration": "Leer fay-teh, fool vaar-hayt.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T18:15:18.097589"
     }
   ],
-  "last_updated": "2026-07-21T15:42:13.304245"
+  "last_updated": "2026-07-21T18:15:18.097591"
 }
