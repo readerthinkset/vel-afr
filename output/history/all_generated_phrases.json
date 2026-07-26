@@ -6509,7 +6509,42 @@
       "transliteration": "Kou-ba-re nug-gaat, 'n soet ple-sier.",
       "category": "Food",
       "generated_at": "2026-07-26T15:02:52.146640"
+    },
+    {
+      "english": "The future, awaits us.",
+      "afrikaans": "Die toekoms, wag vir ons.",
+      "transliteration": "Dee too-koms, vahg fehr ons.",
+      "category": "Time",
+      "generated_at": "2026-07-26T17:56:49.221856"
+    },
+    {
+      "english": "A new day, begins now.",
+      "afrikaans": "'n Nuwe dag, begin nou.",
+      "transliteration": "'n Nu-wuh dahg, beh-gin nough.",
+      "category": "Time",
+      "generated_at": "2026-07-26T17:56:49.221865"
+    },
+    {
+      "english": "Let's use this chance.",
+      "afrikaans": "Kom ons benut hierdie kans.",
+      "transliteration": "Kom ons beh-nhoot heer-dee kahns.",
+      "category": "Time",
+      "generated_at": "2026-07-26T17:56:49.221866"
+    },
+    {
+      "english": "Is it time, yet?",
+      "afrikaans": "Is dit nou tyd?",
+      "transliteration": "Is dit nough teyt?",
+      "category": "Time",
+      "generated_at": "2026-07-26T17:56:49.221867"
+    },
+    {
+      "english": "We must hurry, a little.",
+      "afrikaans": "Ons moet bietjie jaag.",
+      "transliteration": "Ons moot beet-khee yahgh.",
+      "category": "Time",
+      "generated_at": "2026-07-26T17:56:49.221869"
     }
   ],
-  "last_updated": "2026-07-26T15:02:52.146642"
+  "last_updated": "2026-07-26T17:56:49.221870"
 }
