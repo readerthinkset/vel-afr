@@ -6894,7 +6894,42 @@
       "transliteration": "Klain stahp-pees, groot roy-se.",
       "category": "Education",
       "generated_at": "2026-07-30T02:05:14.339305"
+    },
+    {
+      "english": "Fire, over there, quickly!",
+      "afrikaans": "Brand, daar vêr, gou!",
+      "transliteration": "Brant, dar fair, how!",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T13:53:25.853944"
+    },
+    {
+      "english": "I am lost.",
+      "afrikaans": "Ek is, verlore.",
+      "transliteration": "Ek is, fer-lo-reh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T13:53:25.853953"
+    },
+    {
+      "english": "Someone fell.",
+      "afrikaans": "Iemand het, geval.",
+      "transliteration": "Ee-mant het, fer-hal.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T13:53:25.853955"
+    },
+    {
+      "english": "We are trapped.",
+      "afrikaans": "Ons is, vasgevang.",
+      "transliteration": "Ons is, vas-fer-hang.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T13:53:25.853956"
+    },
+    {
+      "english": "My breathing, is difficult.",
+      "afrikaans": "My asemhaling, is moeilik.",
+      "transliteration": "My ah-sem-hah-ling, is moo-i-lik.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T13:53:25.853958"
     }
   ],
-  "last_updated": "2026-07-30T02:05:14.339307"
+  "last_updated": "2026-07-30T13:53:25.853959"
 }
