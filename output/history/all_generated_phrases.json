@@ -6929,7 +6929,42 @@
       "transliteration": "My ah-sem-hah-ling, is moo-i-lik.",
       "category": "Emergency",
       "generated_at": "2026-07-30T13:53:25.853958"
+    },
+    {
+      "english": "Cloud storage, safe for your files.",
+      "afrikaans": "Wolkberging, veilig vir jou lêers.",
+      "transliteration": "Volk ber-hing, vey-lig fer yowe lay-ers.",
+      "category": "Technology",
+      "generated_at": "2026-07-30T15:51:00.442630"
+    },
+    {
+      "english": "New software, unlocks potential.",
+      "afrikaans": "Nuwe sagteware, ontsluit potensiaal.",
+      "transliteration": "Nuw-eh sacht-fa-reh, ont-sloyt po-ten-see-al.",
+      "category": "Technology",
+      "generated_at": "2026-07-30T15:51:00.442643"
+    },
+    {
+      "english": "Digital footprint, tread with care.",
+      "afrikaans": "Digitale voetafdruk, trap met sorg.",
+      "transliteration": "Dee-gee-tah-leh foo-tah-druk, trahp met sorgh.",
+      "category": "Technology",
+      "generated_at": "2026-07-30T15:51:00.442645"
+    },
+    {
+      "english": "Remote work, global reach.",
+      "afrikaans": "Afstandswerk, globale reikwydte.",
+      "transliteration": "Af-stand-verk, glo-bah-leh rayk-vayt-teh.",
+      "category": "Technology",
+      "generated_at": "2026-07-30T15:51:00.442647"
+    },
+    {
+      "english": "Smart device, clever helper.",
+      "afrikaans": "Slim toestel, slim helper.",
+      "transliteration": "Slim too-stel, slim hel-per.",
+      "category": "Technology",
+      "generated_at": "2026-07-30T15:51:00.442648"
     }
   ],
-  "last_updated": "2026-07-30T13:53:25.853959"
+  "last_updated": "2026-07-30T15:51:00.442650"
 }
