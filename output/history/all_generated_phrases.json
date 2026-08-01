@@ -7279,7 +7279,42 @@
       "transliteration": "Wees 'n, sagte seel.",
       "category": "Kindness",
       "generated_at": "2026-08-01T13:14:16.299991"
+    },
+    {
+      "english": "The dew, glistens on the grass.",
+      "afrikaans": "Die dou, glinster op die gras.",
+      "transliteration": "Dee do, glinster op dee gras.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T14:58:21.521995"
+    },
+    {
+      "english": "A chill, nips at your nose.",
+      "afrikaans": "N Kou, byt aan jou neus.",
+      "transliteration": "N kow, bit aan yow noose.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T14:58:21.522008"
+    },
+    {
+      "english": "The heavens, opened up wide.",
+      "afrikaans": "Die hemel, het wyd oopgegaan.",
+      "transliteration": "Dee hem-el, het veid oop-ge-khan.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T14:58:21.522010"
+    },
+    {
+      "english": "A rainbow, paints the sky.",
+      "afrikaans": "N Reënboog, verf die lug.",
+      "transliteration": "N rayn-bohg, verf dee lug.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T14:58:21.522011"
+    },
+    {
+      "english": "The fog, rolls in slowly.",
+      "afrikaans": "Die mis, rol stadig in.",
+      "transliteration": "Dee mis, rol sta-dikh in.",
+      "category": "Weather",
+      "generated_at": "2026-08-01T14:58:21.522012"
     }
   ],
-  "last_updated": "2026-08-01T13:14:16.299993"
+  "last_updated": "2026-08-01T14:58:21.522014"
 }
