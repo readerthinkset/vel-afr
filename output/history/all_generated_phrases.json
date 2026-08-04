@@ -7734,7 +7734,42 @@
       "transliteration": "Hahr kleed, blink hel-ler.",
       "category": "Clothes",
       "generated_at": "2026-08-03T20:58:58.848365"
+    },
+    {
+      "english": "That foot, it’s quite tired.",
+      "afrikaans": "Daardie voet, dit is nogal moeg.",
+      "transliteration": "Dar-dier foot, dit is nog-al moeg.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T02:11:44.816970"
+    },
+    {
+      "english": "My back, it needs a stretch.",
+      "afrikaans": "My rug, dit het rek nodig.",
+      "transliteration": "Mee rug, dit het rek no-degh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T02:11:44.816978"
+    },
+    {
+      "english": "Your chest, it beats fast.",
+      "afrikaans": "Jou bors, dit klop vinnig.",
+      "transliteration": "Yoh bors, dit klop vin-negh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T02:11:44.816980"
+    },
+    {
+      "english": "His knee, it bent slightly.",
+      "afrikaans": "Sy knie, dit het effens gebuig.",
+      "transliteration": "Siy knee, dit het ef-fens ghe-buygh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T02:11:44.816981"
+    },
+    {
+      "english": "Her elbow, it bumped the table.",
+      "afrikaans": "Haar elmboog, dit het die tafel gestamp.",
+      "transliteration": "Har elm-boogh, dit het dee ta-fel ghes-tomp.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-04T02:11:44.816983"
     }
   ],
-  "last_updated": "2026-08-03T20:58:58.848367"
+  "last_updated": "2026-08-04T02:11:44.816984"
 }
