@@ -7909,7 +7909,42 @@
       "transliteration": "Hoor dee rit-meh, fool dit.",
       "category": "Directions",
       "generated_at": "2026-08-04T21:05:22.259957"
+    },
+    {
+      "english": "This map, is very old.",
+      "afrikaans": "Hierdie kaart, is baie oud.",
+      "transliteration": "Hee-ree-yeh kaart, is by-yeh owt.",
+      "category": "Travel",
+      "generated_at": "2026-08-05T02:10:50.497216"
+    },
+    {
+      "english": "We need, fresh water.",
+      "afrikaans": "Ons benodig, vars water.",
+      "transliteration": "Ons beh-no-dig, fars va-ter.",
+      "category": "Travel",
+      "generated_at": "2026-08-05T02:10:50.497226"
+    },
+    {
+      "english": "The sun, is setting now.",
+      "afrikaans": "Die son, sak nou onder.",
+      "transliteration": "Dee son, sak now un-der.",
+      "category": "Travel",
+      "generated_at": "2026-08-05T02:10:50.497228"
+    },
+    {
+      "english": "Can I see, the menu please?",
+      "afrikaans": "Mag ek die spyskaart, sien asseblief?",
+      "transliteration": "Mahg ek dee spee-skaart, seen as-eh-bleef?",
+      "category": "Travel",
+      "generated_at": "2026-08-05T02:10:50.497229"
+    },
+    {
+      "english": "This village, is so peaceful.",
+      "afrikaans": "Hierdie dorpie, is so rustig.",
+      "transliteration": "Hee-ree-yeh dor-pee, is so rus-tigh.",
+      "category": "Travel",
+      "generated_at": "2026-08-05T02:10:50.497230"
     }
   ],
-  "last_updated": "2026-08-04T21:05:22.259959"
+  "last_updated": "2026-08-05T02:10:50.497232"
 }
