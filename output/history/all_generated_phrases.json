@@ -8434,7 +8434,42 @@
       "transliteration": "Vray-hdeh floo-ster sahg, loo-ster hoot.",
       "category": "Happiness",
       "generated_at": "2026-08-08T12:41:53.346594"
+    },
+    {
+      "english": "A steady breath, onward.",
+      "afrikaans": "'n Vaste asem, vooruit.",
+      "transliteration": "'n Vah-steh ah-sem, for-ooyt.",
+      "category": "Courage",
+      "generated_at": "2026-08-08T14:29:13.516964"
+    },
+    {
+      "english": "The spirit, finds its light.",
+      "afrikaans": "Die gees, vind sy lig.",
+      "transliteration": "Dee ghees, vind sah-ee lekh.",
+      "category": "Courage",
+      "generated_at": "2026-08-08T14:29:13.516972"
+    },
+    {
+      "english": "Bold steps, lead the way.",
+      "afrikaans": "Dapper stappe, lei die pad.",
+      "transliteration": "Dahp-per stahp-peh, lay dee pahd.",
+      "category": "Courage",
+      "generated_at": "2026-08-08T14:29:13.516974"
+    },
+    {
+      "english": "Hold on, tightly.",
+      "afrikaans": "Hou vas, stewig.",
+      "transliteration": "How vahs, stey-vekh.",
+      "category": "Courage",
+      "generated_at": "2026-08-08T14:29:13.516975"
+    },
+    {
+      "english": "Your resolve, strengthens.",
+      "afrikaans": "Jou besluit, word sterker.",
+      "transliteration": "Yow beh-sluyt, voord stehr-ker.",
+      "category": "Courage",
+      "generated_at": "2026-08-08T14:29:13.516976"
     }
   ],
-  "last_updated": "2026-08-08T12:41:53.346596"
+  "last_updated": "2026-08-08T14:29:13.516978"
 }
