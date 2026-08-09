@@ -8539,7 +8539,42 @@
       "transliteration": "Yow voor-üyt-hahnk, 'n buh-sten-dee-guh klim.",
       "category": "Success",
       "generated_at": "2026-08-08T20:22:00.007735"
+    },
+    {
+      "english": "Dawn breaks, a fresh start.",
+      "afrikaans": "Dagbreek, 'n vars begin.",
+      "transliteration": "Dahg-brayk, 'n fers buh-gin.",
+      "category": "Time",
+      "generated_at": "2026-08-09T01:24:41.229327"
+    },
+    {
+      "english": "Midday sun, warm and bright.",
+      "afrikaans": "Middagson, warm en helder.",
+      "transliteration": "Mid-dahg-zon, vahrm en hel-der.",
+      "category": "Time",
+      "generated_at": "2026-08-09T01:24:41.229336"
+    },
+    {
+      "english": "Evening falls, quiet descends.",
+      "afrikaans": "Aand val, stilte sak neer.",
+      "transliteration": "Ahnt fahl, stil-tuh sahck neer.",
+      "category": "Time",
+      "generated_at": "2026-08-09T01:24:41.229338"
+    },
+    {
+      "english": "Night arrives, stars appear.",
+      "afrikaans": "Nag kom, sterre verskyn.",
+      "transliteration": "Nahg kohm, steh-rruh fer-skain.",
+      "category": "Time",
+      "generated_at": "2026-08-09T01:24:41.229339"
+    },
+    {
+      "english": "The season changes, gently.",
+      "afrikaans": "Die seisoen wissel, saggies.",
+      "transliteration": "Dih say-soon vuhs-suhl, sahg-ghis.",
+      "category": "Time",
+      "generated_at": "2026-08-09T01:24:41.229340"
     }
   ],
-  "last_updated": "2026-08-08T20:22:00.007736"
+  "last_updated": "2026-08-09T01:24:41.229342"
 }
