@@ -9729,7 +9729,42 @@
       "transliteration": "Heer-dee guh-mahkh-lih-keh skoo-neh, is guh-drah.",
       "category": "Clothes",
       "generated_at": "2026-08-15T20:15:39.510218"
+    },
+    {
+      "english": "The wind, whispers secrets.",
+      "afrikaans": "Die wind, fluister geheime.",
+      "transliteration": "Dee vint, flu-ster khe-hay-meh.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T01:06:28.062058"
+    },
+    {
+      "english": "A hint, of frost lingers.",
+      "afrikaans": "N floute, van ryp bly.",
+      "transliteration": "N flou-teh, fan rip bligh.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T01:06:28.062068"
+    },
+    {
+      "english": "Sunshine, breaks through clouds.",
+      "afrikaans": "Sonskyn, breek deur wolke.",
+      "transliteration": "Sons-kin, breyk deer vol-keh.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T01:06:28.062069"
+    },
+    {
+      "english": "Thunder, rumbles distantly.",
+      "afrikaans": "Donder, rommel ver weg.",
+      "transliteration": "Don-der, rom-mel fer vekh.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T01:06:28.062071"
+    },
+    {
+      "english": "The air, is electric now.",
+      "afrikaans": "Die lug, is nou elektris.",
+      "transliteration": "Dee lukh, is nau eh-lek-tris.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T01:06:28.062072"
     }
   ],
-  "last_updated": "2026-08-15T20:15:39.510220"
+  "last_updated": "2026-08-16T01:06:28.062074"
 }
