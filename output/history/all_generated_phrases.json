@@ -10044,7 +10044,42 @@
       "transliteration": "Ons be-no-dig, drin-gen-de me-di-se sorg.",
       "category": "Emergency",
       "generated_at": "2026-08-17T17:20:37.382094"
+    },
+    {
+      "english": "Hello, new words.",
+      "afrikaans": "Hallo, nuwe woorde.",
+      "transliteration": "Hah-loh, nyoo voo-r-d-eh.",
+      "category": "Motivation",
+      "generated_at": "2026-08-17T20:19:28.233953"
+    },
+    {
+      "english": "Speak, it's your turn.",
+      "afrikaans": "Praat, dis jou beurt.",
+      "transliteration": "Praht, dis yoh beurt.",
+      "category": "Motivation",
+      "generated_at": "2026-08-17T20:19:28.233964"
+    },
+    {
+      "english": "Listen, then reply.",
+      "afrikaans": "Luister, dan antwoord.",
+      "transliteration": "Loo-ster, dan ahnt-voo-rd.",
+      "category": "Motivation",
+      "generated_at": "2026-08-17T20:19:28.233965"
+    },
+    {
+      "english": "Understand, a little more.",
+      "afrikaans": "Begryp, 'n bietjie meer.",
+      "transliteration": "Beh-grip, 'n beet-chee meer.",
+      "category": "Motivation",
+      "generated_at": "2026-08-17T20:19:28.233967"
+    },
+    {
+      "english": "Enjoy, the journey.",
+      "afrikaans": "Geniet, die reis.",
+      "transliteration": "Geh-neet, dee ray-s.",
+      "category": "Motivation",
+      "generated_at": "2026-08-17T20:19:28.233968"
     }
   ],
-  "last_updated": "2026-08-17T17:20:37.382096"
+  "last_updated": "2026-08-17T20:19:28.233970"
 }
