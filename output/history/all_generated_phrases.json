@@ -10009,7 +10009,42 @@
       "transliteration": "Vyf, klein saadjies, diep geplant.",
       "category": "Numbers",
       "generated_at": "2026-08-17T14:24:11.026291"
+    },
+    {
+      "english": "My child, is not breathing.",
+      "afrikaans": "My kind, asemhaal nie.",
+      "transliteration": "Mee kind, ah-sem-hahl nee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T17:20:37.382078"
+    },
+    {
+      "english": "There's been, an accident.",
+      "afrikaans": "Daar was, 'n ongeluk.",
+      "transliteration": "Dar vas, en on-ge-luk.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T17:20:37.382090"
+    },
+    {
+      "english": "I think, I'm poisoned.",
+      "afrikaans": "Ek dink, ek's vergiftig.",
+      "transliteration": "Ek dink, eks fer-gif-tig.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T17:20:37.382092"
+    },
+    {
+      "english": "He's unconscious, please help.",
+      "afrikaans": "Hy's bewusteloos, help asb.",
+      "transliteration": "Heez be-vus-te-loos, help as-bob.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T17:20:37.382093"
+    },
+    {
+      "english": "We need, immediate medical care.",
+      "afrikaans": "Ons benodig, dringende mediese sorg.",
+      "transliteration": "Ons be-no-dig, drin-gen-de me-di-se sorg.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T17:20:37.382094"
     }
   ],
-  "last_updated": "2026-08-17T14:24:11.026292"
+  "last_updated": "2026-08-17T17:20:37.382096"
 }
