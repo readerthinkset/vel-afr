@@ -10814,7 +10814,42 @@
       "transliteration": "Ach, 'n beh-ken-deh khe-sig, moai!",
       "category": "Greetings",
       "generated_at": "2026-08-22T01:03:00.927062"
+    },
+    {
+      "english": "The past, whispers softly.",
+      "afrikaans": "Die verlede, fluister sag.",
+      "transliteration": "Dee fer-lay-duh, floo-ster sahkh.",
+      "category": "Time",
+      "generated_at": "2026-08-22T12:33:00.644945"
+    },
+    {
+      "english": "This minute, matters greatly.",
+      "afrikaans": "Hierdie minuut, tel baie.",
+      "transliteration": "Heer-dee muh-noot, tel buy-uh.",
+      "category": "Time",
+      "generated_at": "2026-08-22T12:33:00.644956"
+    },
+    {
+      "english": "When will it happen, friend?",
+      "afrikaans": "Wanneer sal dit gebeur, vriend?",
+      "transliteration": "Vah-ner sahl dit huh-booor, freent?",
+      "category": "Time",
+      "generated_at": "2026-08-22T12:33:00.644958"
+    },
+    {
+      "english": "Hold on, just a bit.",
+      "afrikaans": "Hou vas, nog net bietjie.",
+      "transliteration": "How fahs, nakh net beet-chee.",
+      "category": "Time",
+      "generated_at": "2026-08-22T12:33:00.644959"
+    },
+    {
+      "english": "It's about time, really.",
+      "afrikaans": "Dis hoog tyd, eintlik.",
+      "transliteration": "Dis hoakh tayt, aynt-lik.",
+      "category": "Time",
+      "generated_at": "2026-08-22T12:33:00.644961"
     }
   ],
-  "last_updated": "2026-08-22T01:03:00.927064"
+  "last_updated": "2026-08-22T12:33:00.644963"
 }
