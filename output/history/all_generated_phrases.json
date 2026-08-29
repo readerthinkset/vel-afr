@@ -12109,7 +12109,42 @@
       "transliteration": "Loop be-dag-saam, let op be-son-der-heh-deh.",
       "category": "Health",
       "generated_at": "2026-08-29T17:30:23.468808"
+    },
+    {
+      "english": "Could I, try this on, perhaps?",
+      "afrikaans": "Sal ek, dit kan pas, asseblief?",
+      "transliteration": "Sal ek, dit kan pas, asseblief?",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T19:35:08.217064"
+    },
+    {
+      "english": "What a, beautiful display.",
+      "afrikaans": "Sulke mooi, uitstalling.",
+      "transliteration": "Sulke mooi, uitstalling.",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T19:35:08.217071"
+    },
+    {
+      "english": "Do you, have this, in a larger size?",
+      "afrikaans": "Het julle, dit, in groter?",
+      "transliteration": "Het julle, dit, in groter?",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T19:35:08.217072"
+    },
+    {
+      "english": "I’m looking, for something unique.",
+      "afrikaans": "Ek soek, iets anders.",
+      "transliteration": "Ek soek, iets anders.",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T19:35:08.217074"
+    },
+    {
+      "english": "This is, a lovely find.",
+      "afrikaans": "Dis nogal, ‘n lekker ding.",
+      "transliteration": "Dis nogal, ‘n lekker ding.",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T19:35:08.217075"
     }
   ],
-  "last_updated": "2026-08-29T17:30:23.468810"
+  "last_updated": "2026-08-29T19:35:08.217077"
 }
