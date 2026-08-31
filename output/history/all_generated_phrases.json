@@ -12389,7 +12389,42 @@
       "transliteration": "Teen fin-gers, waai ha-loh, tot-seens.",
       "category": "Numbers",
       "generated_at": "2026-08-31T03:27:57.989063"
+    },
+    {
+      "english": "My head, it is spinning.",
+      "afrikaans": "My kop, draai vreeslik.",
+      "transliteration": "Muh kop, drai free-slic.",
+      "category": "Emergency",
+      "generated_at": "2026-08-31T18:44:35.074180"
+    },
+    {
+      "english": "I can't, feel my hand.",
+      "afrikaans": "Ek voel, nie my hand nie.",
+      "transliteration": "Ek feel, nee muh hand nee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-31T18:44:35.074189"
+    },
+    {
+      "english": "Is there, a chemist, nearby?",
+      "afrikaans": "Is daar, 'n apteek, naby?",
+      "transliteration": "Is dar, 'n ap-tayk, na-beh?",
+      "category": "Emergency",
+      "generated_at": "2026-08-31T18:44:35.074191"
+    },
+    {
+      "english": "He's choking, badly.",
+      "afrikaans": "Hy verstik, erg.",
+      "transliteration": "Hye fer-stick, erg.",
+      "category": "Emergency",
+      "generated_at": "2026-08-31T18:44:35.074192"
+    },
+    {
+      "english": "We need, to stop, this bleeding.",
+      "afrikaans": "Ons moet, hierdie bloeding, stop.",
+      "transliteration": "Ons moot, here-dee bloo-ding, stop.",
+      "category": "Emergency",
+      "generated_at": "2026-08-31T18:44:35.074193"
     }
   ],
-  "last_updated": "2026-08-31T03:27:57.989065"
+  "last_updated": "2026-08-31T18:44:35.074195"
 }
