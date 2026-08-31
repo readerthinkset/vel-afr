@@ -12354,7 +12354,42 @@
       "transliteration": "Waar, fok-us ons, en-er-gie?",
       "category": "Work",
       "generated_at": "2026-08-30T22:18:14.341398"
+    },
+    {
+      "english": "Six apples, in the basket, please.",
+      "afrikaans": "Ses appels, in die mandjie, asseblief.",
+      "transliteration": "Ses ap-uls, in dee man-kye, as-bleef.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T03:27:57.989051"
+    },
+    {
+      "english": "Seven stars, shining bright, tonight.",
+      "afrikaans": "Sewe sterre, skyn helder, vanaand.",
+      "transliteration": "Se-veh ster-reh, skine hel-der, va-naand.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T03:27:57.989059"
+    },
+    {
+      "english": "Eight sheep, jumping fence, so playful.",
+      "afrikaans": "Agt skape, spring heining, so speels.",
+      "transliteration": "Acht ska-peh, spring hay-ning, so speels.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T03:27:57.989061"
+    },
+    {
+      "english": "Nine birds, singing sweetly, on branch.",
+      "afrikaans": "Nege voëls, sing soet, op tak.",
+      "transliteration": "Ne-geh foh-uls, sing soot, op tak.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T03:27:57.989062"
+    },
+    {
+      "english": "Ten fingers, waving hello, goodbye.",
+      "afrikaans": "Tien vingers, waai hallo, totsiens.",
+      "transliteration": "Teen fin-gers, waai ha-loh, tot-seens.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T03:27:57.989063"
     }
   ],
-  "last_updated": "2026-08-30T22:18:14.341400"
+  "last_updated": "2026-08-31T03:27:57.989065"
 }
