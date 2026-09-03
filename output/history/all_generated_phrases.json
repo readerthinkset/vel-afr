@@ -12949,7 +12949,42 @@
       "transliteration": "Voo-r-duh kom, met teyt.",
       "category": "Perseverance",
       "generated_at": "2026-09-03T15:46:30.029977"
+    },
+    {
+      "english": "Hello there, happy to see you.",
+      "afrikaans": "Hallo daar, bly om jou te sien.",
+      "transliteration": "Ha-lo daar, blai om you te seen.",
+      "category": "Greetings",
+      "generated_at": "2026-09-03T17:31:14.698869"
+    },
+    {
+      "english": "Good day, come on in.",
+      "afrikaans": "Goeie dag, kom maar in.",
+      "transliteration": "Gooi-eh dag, kom maar in.",
+      "category": "Greetings",
+      "generated_at": "2026-09-03T17:31:14.698881"
+    },
+    {
+      "english": "Well, hello, what a surprise!",
+      "afrikaans": "Wel, hallo, wat 'n verrassing!",
+      "transliteration": "Vel, ha-lo, vat 'n fer-ras-sing!",
+      "category": "Greetings",
+      "generated_at": "2026-09-03T17:31:14.698883"
+    },
+    {
+      "english": "Hey, good to have you here.",
+      "afrikaans": "Haai, goed om jou hier te hê.",
+      "transliteration": "Haai, goot om you hier te heh.",
+      "category": "Greetings",
+      "generated_at": "2026-09-03T17:31:14.698885"
+    },
+    {
+      "english": "Welcome, please make yourself at home.",
+      "afrikaans": "Welkom, voel asseblief tuis.",
+      "transliteration": "Vel-kom, fool as-seh-bleef toos.",
+      "category": "Greetings",
+      "generated_at": "2026-09-03T17:31:14.698886"
     }
   ],
-  "last_updated": "2026-09-03T15:46:30.029978"
+  "last_updated": "2026-09-03T17:31:14.698888"
 }
