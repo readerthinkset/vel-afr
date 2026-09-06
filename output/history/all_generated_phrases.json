@@ -13404,7 +13404,42 @@
       "transliteration": "Ge-lakh ve-rre-ghal-m, he-rin-neh-rin-ge blom.",
       "category": "Holidays",
       "generated_at": "2026-09-05T21:50:51.595929"
+    },
+    {
+      "english": "Danger, get back, now!",
+      "afrikaans": "Gevaar, trek terug, nou!",
+      "transliteration": "Ge-vaar, trek ter-ug, nou!",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T02:48:58.380013"
+    },
+    {
+      "english": "Something's burning, smell it?",
+      "afrikaans": "Iets brand, ruik jy dit?",
+      "transliteration": "Eets brand, ruik jy dit?",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T02:48:58.380021"
+    },
+    {
+      "english": "My heart, it feels strange.",
+      "afrikaans": "My hart, dit voel vreemd.",
+      "transliteration": "Mai hart, dit voel vreemd.",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T02:48:58.380022"
+    },
+    {
+      "english": "This water, is it safe?",
+      "afrikaans": "Hierdie water, is dit veilig?",
+      "transliteration": "Hie-rre wa-ter, is dit vai-lig?",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T02:48:58.380023"
+    },
+    {
+      "english": "Can you hear, that noise?",
+      "afrikaans": "Hoor jy, daardie geluid?",
+      "transliteration": "Ho-or jy, daar-die ge-luid?",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T02:48:58.380025"
     }
   ],
-  "last_updated": "2026-09-05T21:50:51.595930"
+  "last_updated": "2026-09-06T02:48:58.380026"
 }
