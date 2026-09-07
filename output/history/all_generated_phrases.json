@@ -13579,7 +13579,42 @@
       "transliteration": "Luys-ter naa dee rit-meh, ab-sor-beer.",
       "category": "Directions",
       "generated_at": "2026-09-06T21:54:25.535589"
+    },
+    {
+      "english": "Zero, absolutely nothing, for me.",
+      "afrikaans": "Nul, absoluut niks, vir my.",
+      "transliteration": "Nul, ap-so-loot neek, feer my.",
+      "category": "Numbers",
+      "generated_at": "2026-09-07T02:47:01.419623"
+    },
+    {
+      "english": "One, single goal, we chase.",
+      "afrikaans": "Een, enkele doelwit, ons jaag.",
+      "transliteration": "Een, enk-el-ler dool-weet, ons yahg.",
+      "category": "Numbers",
+      "generated_at": "2026-09-07T02:47:01.419632"
+    },
+    {
+      "english": "Two, of each, please.",
+      "afrikaans": "Twee, van elke, asseblief.",
+      "transliteration": "Twee, vahn elk-er, as-eh-bleef.",
+      "category": "Numbers",
+      "generated_at": "2026-09-07T02:47:01.419634"
+    },
+    {
+      "english": "Three, a lucky trio, perhaps.",
+      "afrikaans": "Drie, 'n gelukkige drietal, dalk.",
+      "transliteration": "Dree, 'n gh-eh-luk-kh-eh dree-tahl, dahlk.",
+      "category": "Numbers",
+      "generated_at": "2026-09-07T02:47:01.419635"
+    },
+    {
+      "english": "Four, the seasons, change always.",
+      "afrikaans": "Vier, die seisoene, verander altyd.",
+      "transliteration": "Veer, dee say-soo-ner, fer-ahn-der al-tite.",
+      "category": "Numbers",
+      "generated_at": "2026-09-07T02:47:01.419636"
     }
   ],
-  "last_updated": "2026-09-06T21:54:25.535591"
+  "last_updated": "2026-09-07T02:47:01.419638"
 }
