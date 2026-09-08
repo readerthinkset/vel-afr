@@ -13789,7 +13789,42 @@
       "transliteration": "Laat vreen-duh-lik-heid, lai yoh pad.",
       "category": "Happiness",
       "generated_at": "2026-09-08T15:59:44.286795"
+    },
+    {
+      "english": "This steak, is perfectly cooked.",
+      "afrikaans": "Hierdie biefstuk, is perfek gaar.",
+      "transliteration": "Hie-dih bif-stook, is per-fek gaar.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-08T18:25:08.115933"
+    },
+    {
+      "english": "Could we see, the dessert menu?",
+      "afrikaans": "Mag ons, die nageregkaart sien?",
+      "transliteration": "Mah ons, dih nah-deh-rek-kaart seen?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-08T18:25:08.115955"
+    },
+    {
+      "english": "I’ll have, the chicken, please.",
+      "afrikaans": "Ek neem, die hoender, asseblief.",
+      "transliteration": "Ek neem, dih hoon-der, ah-seh-bleef.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-08T18:25:08.115957"
+    },
+    {
+      "english": "This wine, pairs wonderfully.",
+      "afrikaans": "Hierdie wyn, pas wonderlik.",
+      "transliteration": "Hie-dih vyn, pahs von-der-lik.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-08T18:25:08.115958"
+    },
+    {
+      "english": "Is the seafood, fresh today?",
+      "afrikaans": "Is die seekos, vars vandag?",
+      "transliteration": "Is dih seek-oss, fars fan-dahg?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-08T18:25:08.115959"
     }
   ],
-  "last_updated": "2026-09-08T15:59:44.286796"
+  "last_updated": "2026-09-08T18:25:08.115962"
 }
