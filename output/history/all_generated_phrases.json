@@ -14349,7 +14349,42 @@
       "transliteration": "Yoh ghayss, skine hel-lurr.",
       "category": "Courage",
       "generated_at": "2026-09-11T19:22:51.879704"
+    },
+    {
+      "english": "Sweet grapes, sun-warmed.",
+      "afrikaans": "Slaai druiwe, son-warm.",
+      "transliteration": "Slaai droy-veh, son-varm.",
+      "category": "Food",
+      "generated_at": "2026-09-11T22:10:01.381095"
+    },
+    {
+      "english": "Cheesy bread, golden brown.",
+      "afrikaans": "Kaasbrood, goudbruin.",
+      "transliteration": "Kahs-brood, howt-broyn.",
+      "category": "Food",
+      "generated_at": "2026-09-11T22:10:01.381106"
+    },
+    {
+      "english": "Spiced nuts, warm aroma.",
+      "afrikaans": "Gekruide neute, warm geur.",
+      "transliteration": "Gekhroo-deh nuh-teh, varm gher.",
+      "category": "Food",
+      "generated_at": "2026-09-11T22:10:01.381107"
+    },
+    {
+      "english": "Creamy yogurt, cool and fresh.",
+      "afrikaans": "Romige jogurt, koel en vars.",
+      "transliteration": "Roh-mi-geh jog-urt, kool en fahs.",
+      "category": "Food",
+      "generated_at": "2026-09-11T22:10:01.381109"
+    },
+    {
+      "english": "Crisp lettuce, garden bounty.",
+      "afrikaans": "Korslê groen, tuin-oes.",
+      "transliteration": "Kors-lay groon, toyn-oos.",
+      "category": "Food",
+      "generated_at": "2026-09-11T22:10:01.381110"
     }
   ],
-  "last_updated": "2026-09-11T19:22:51.879706"
+  "last_updated": "2026-09-11T22:10:01.381112"
 }
