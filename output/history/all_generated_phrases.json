@@ -14419,7 +14419,42 @@
       "transliteration": "Fool dee varm-tuh, vahn nu-vuh moont-lik-heh-deh.",
       "category": "Hope",
       "generated_at": "2026-09-12T03:00:50.865004"
+    },
+    {
+      "english": "The sky, is a canvas.",
+      "afrikaans": "Die lug, is 'n doek.",
+      "transliteration": "Dee loogh, is 'n dook.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-12T14:58:30.759902"
+    },
+    {
+      "english": "Listen, to the wind.",
+      "afrikaans": "Luister, na die wind.",
+      "transliteration": "Loo-ster, nah dee vint.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-12T14:58:30.759916"
+    },
+    {
+      "english": "Taste, this sweet fruit.",
+      "afrikaans": "Proe, hierdie soet vrug.",
+      "transliteration": "Proo, hee-dree soot vrough.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-12T14:58:30.759917"
+    },
+    {
+      "english": "Walk, with me, slowly.",
+      "afrikaans": "Loop, saam met my, stadig.",
+      "transliteration": "Loop, sahm met my, stah-ghah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-12T14:58:30.759919"
+    },
+    {
+      "english": "The book, holds secrets.",
+      "afrikaans": "Die boek, hou geheime.",
+      "transliteration": "Dee book, hoo gheh-hay-meh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-12T14:58:30.759920"
     }
   ],
-  "last_updated": "2026-09-12T03:00:50.865005"
+  "last_updated": "2026-09-12T14:58:30.759922"
 }
