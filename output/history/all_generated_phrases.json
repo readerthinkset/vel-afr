@@ -15119,7 +15119,42 @@
       "transliteration": "Dee mark gonst, met lee-veh.",
       "category": "Culture",
       "generated_at": "2026-09-16T03:13:49.193975"
+    },
+    {
+      "english": "Something's wrong, here.",
+      "afrikaans": "Hier, is iets, verkeerd.",
+      "transliteration": "Heer, is iets, fer-kairt.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:06:14.228924"
+    },
+    {
+      "english": "I need, to sit, down.",
+      "afrikaans": "Ek moet, sit, asseblief.",
+      "transliteration": "Ek moot, sit, as-uh-bleef.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:06:14.228933"
+    },
+    {
+      "english": "Can you, call for, help?",
+      "afrikaans": "Kan u, iemand, roep?",
+      "transliteration": "Kan oo, eem-und, roop?",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:06:14.228935"
+    },
+    {
+      "english": "It's, really hot, here.",
+      "afrikaans": "Dit is, baie, warm.",
+      "transliteration": "Dit is, ba-yeh, varm.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:06:14.228936"
+    },
+    {
+      "english": "I feel, quite dizzy.",
+      "afrikaans": "Ek voel, bietjie, naar.",
+      "transliteration": "Ek feel, bit-chee, nahr.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:06:14.228937"
     }
   ],
-  "last_updated": "2026-09-16T03:13:49.193976"
+  "last_updated": "2026-09-16T16:06:14.228939"
 }
