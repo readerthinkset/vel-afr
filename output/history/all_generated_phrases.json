@@ -15784,7 +15784,42 @@
       "transliteration": "Dee RIT-meh PRAHT, HOR yai?",
       "category": "Success",
       "generated_at": "2026-09-19T22:02:27.831683"
+    },
+    {
+      "english": "This sweater, feels so soft.",
+      "afrikaans": "Hierdie trui, voel so sag.",
+      "transliteration": "Hie-ris trui, voel so sag.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T03:17:05.041415"
+    },
+    {
+      "english": "My jacket, is very warm.",
+      "afrikaans": "My baadjie, is baie warm.",
+      "transliteration": "My baa-kie, is bai-e warm.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T03:17:05.041423"
+    },
+    {
+      "english": "Her dress, has a pattern.",
+      "afrikaans": "Haar rok, het 'n patroon.",
+      "transliteration": "Haar rok, het un pa-troon.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T03:17:05.041424"
+    },
+    {
+      "english": "His trousers, are blue.",
+      "afrikaans": "Sy broek, is blou.",
+      "transliteration": "Sui bruk, is blou.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T03:17:05.041424"
+    },
+    {
+      "english": "That scarf, is woolly.",
+      "afrikaans": "Daardie serp, is wollerig.",
+      "transliteration": "Daar-di ser-p, is wol-ler-ig.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T03:17:05.041425"
     }
   ],
-  "last_updated": "2026-09-19T22:02:27.831685"
+  "last_updated": "2026-09-20T03:17:05.041426"
 }
