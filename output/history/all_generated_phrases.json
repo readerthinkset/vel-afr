@@ -16484,7 +16484,42 @@
       "transliteration": "Vyf sin-tui-e, ak-tief, al-tyd.",
       "category": "Numbers",
       "generated_at": "2026-09-23T22:37:37.571165"
+    },
+    {
+      "english": "A gentle breeze, cools the day.",
+      "afrikaans": "Sagte briesie, koel die dag.",
+      "transliteration": "Sakhtuh bree-see, koo-l duh dak.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T03:02:43.054714"
+    },
+    {
+      "english": "The sky, weeps softly now.",
+      "afrikaans": "Die hemel, huil sagkens nou.",
+      "transliteration": "Dee hay-muhl, hoyl sak-kens now.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T03:02:43.054723"
+    },
+    {
+      "english": "Sunlight, spills on the path.",
+      "afrikaans": "Sonlig, vloei oor die pad.",
+      "transliteration": "Son-likh, floo-ee ohr dee pahd.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T03:02:43.054725"
+    },
+    {
+      "english": "A sudden chill, creeps in.",
+      "afrikaans": "N skielike koue, sluip in.",
+      "transliteration": "N skee-kuh-luh kow-uh, sloyp in.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T03:02:43.054726"
+    },
+    {
+      "english": "Dampness, clings to the air.",
+      "afrikaans": "Klammigheid, kleef aan die lug.",
+      "transliteration": "Klahm-hik-hait, klayf ahn dee lukh.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T03:02:43.054728"
     }
   ],
-  "last_updated": "2026-09-23T22:37:37.571167"
+  "last_updated": "2026-09-24T03:02:43.054729"
 }
