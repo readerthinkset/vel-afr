@@ -16729,7 +16729,42 @@
       "transliteration": "Yoh glim-lahkh, uh hel-der bah-ken.",
       "category": "Happiness",
       "generated_at": "2026-09-25T16:30:37.295172"
+    },
+    {
+      "english": "Sudden sharp pain, here.",
+      "afrikaans": "Skielike, skerp pyn, hier.",
+      "transliteration": "Skee-loo-keh, skerp peyn, heer.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:13:35.252134"
+    },
+    {
+      "english": "My vision, is blurry.",
+      "afrikaans": "My sig, is troebel.",
+      "transliteration": "My seeg, is troo-bel.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:13:35.252145"
+    },
+    {
+      "english": "I feel, so weak, now.",
+      "afrikaans": "Ek voel, so swak, nou.",
+      "transliteration": "Ek fool, so swak, now.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:13:35.252147"
+    },
+    {
+      "english": "There's, a strange smell.",
+      "afrikaans": "Daar's, 'n vreemde reuk.",
+      "transliteration": "Daars, 'n freem-deh rek.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:13:35.252148"
+    },
+    {
+      "english": "My ear, is ringing loudly.",
+      "afrikaans": "My oor, luidrigtig lui.",
+      "transliteration": "My oor, loyd-rig-tig loy.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:13:35.252149"
     }
   ],
-  "last_updated": "2026-09-25T16:30:37.295173"
+  "last_updated": "2026-09-25T18:13:35.252150"
 }
