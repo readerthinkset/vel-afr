@@ -17079,7 +17079,42 @@
       "transliteration": "Khort voor lank, sal dit ghe-doon wees.",
       "category": "Time",
       "generated_at": "2026-09-27T16:22:21.957421"
+    },
+    {
+      "english": "This dish, looks amazing.",
+      "afrikaans": "Hierdie gereg, lyk wonderlik.",
+      "transliteration": "Hee-ree-yeh guh-rekh, leykh vun-der-lekh.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-27T18:03:04.483699"
+    },
+    {
+      "english": "What's the waiter, recommending?",
+      "afrikaans": "Wat beveel, die kelner aan?",
+      "transliteration": "Vaht buh-feel, dee kel-ner ahn?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-27T18:03:04.483711"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "afrikaans": "Ons is gereed, om nou te bestel.",
+      "transliteration": "Ons iss guh-rayed, om now tuh buh-stel.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-27T18:03:04.483713"
+    },
+    {
+      "english": "That sounds, delicious.",
+      "afrikaans": "Dit klink, heerlik.",
+      "transliteration": "Dit klink, heer-lekh.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-27T18:03:04.483715"
+    },
+    {
+      "english": "Could I have, the bill, please?",
+      "afrikaans": "Mag ek, die rekening, kry asseblief?",
+      "transliteration": "Mahkh ekh, dee rey-kuh-ning, kruy ah-suh-bleef?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-27T18:03:04.483716"
     }
   ],
-  "last_updated": "2026-09-27T16:22:21.957423"
+  "last_updated": "2026-09-27T18:03:04.483719"
 }
