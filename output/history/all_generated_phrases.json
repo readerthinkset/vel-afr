@@ -17044,7 +17044,42 @@
       "transliteration": "Beh-graip dih beh-teh-ken-is, booi-teh voor-deh.",
       "category": "Purpose",
       "generated_at": "2026-09-27T03:33:00.293673"
+    },
+    {
+      "english": "Right then, let's start.",
+      "afrikaans": "Nou goed, kom ons begin.",
+      "transliteration": "Now khood, kom ons be-gin.",
+      "category": "Time",
+      "generated_at": "2026-09-27T16:22:21.957407"
+    },
+    {
+      "english": "Just a little while, longer.",
+      "afrikaans": "Net 'n bietjie langer.",
+      "transliteration": "Net 'n bee-t-jie lang-er.",
+      "category": "Time",
+      "generated_at": "2026-09-27T16:22:21.957417"
+    },
+    {
+      "english": "When the moment arrives, we'll know.",
+      "afrikaans": "Wanneer die oomblik kom, sal ons weet.",
+      "transliteration": "Van-ner dee oom-blok kom, sal ons weet.",
+      "category": "Time",
+      "generated_at": "2026-09-27T16:22:21.957419"
+    },
+    {
+      "english": "This very second, matters most.",
+      "afrikaans": "Hierdie sekonde, is die belangrikste.",
+      "transliteration": "Hee-dee-ray se-kon-de, is dee be-lang-rik-ste.",
+      "category": "Time",
+      "generated_at": "2026-09-27T16:22:21.957420"
+    },
+    {
+      "english": "In a little while, it will be done.",
+      "afrikaans": "Kort voor lank, sal dit gedoen wees.",
+      "transliteration": "Khort voor lank, sal dit ghe-doon wees.",
+      "category": "Time",
+      "generated_at": "2026-09-27T16:22:21.957421"
     }
   ],
-  "last_updated": "2026-09-27T03:33:00.293675"
+  "last_updated": "2026-09-27T16:22:21.957423"
 }
