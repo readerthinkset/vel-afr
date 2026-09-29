@@ -17499,7 +17499,42 @@
       "transliteration": "Yei bow brew-uh, met klahn-kuh.",
       "category": "Confidence",
       "generated_at": "2026-09-29T21:12:05.985672"
+    },
+    {
+      "english": "One, brave soul, ventured forth.",
+      "afrikaans": "Een, dapper siel, het uitgestap.",
+      "transliteration": "Een, dapper seel, het uit-staap.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T23:21:35.805331"
+    },
+    {
+      "english": "Two, shiny coins, jingled softly.",
+      "afrikaans": "Twee, blink munte, gerammel sag.",
+      "transliteration": "Twee, blink munt-e, ge-ram-mel sach.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T23:21:35.805345"
+    },
+    {
+      "english": "Three, tiny boats, sailed gently.",
+      "afrikaans": "Drie, klein bootjies, gevaar sag.",
+      "transliteration": "Drie, klijn booi-tjies, ge-vaar sach.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T23:21:35.805346"
+    },
+    {
+      "english": "Four, tall trees, touched the sky.",
+      "afrikaans": "Vier, hoë bome, die lug geraak.",
+      "transliteration": "Vier, ho-e bo-me, dee lue ge-raak.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T23:21:35.805348"
+    },
+    {
+      "english": "Five, playful kittens, chased a ball.",
+      "afrikaans": "Vyf, speelse katjies, ballet gejaag.",
+      "transliteration": "Vyf, speel-se kat-jies, bal-let ge-jaach.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T23:21:35.805349"
     }
   ],
-  "last_updated": "2026-09-29T21:12:05.985674"
+  "last_updated": "2026-09-29T23:21:35.805350"
 }
