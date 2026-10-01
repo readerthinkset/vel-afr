@@ -17709,7 +17709,42 @@
       "transliteration": "'n Guh-schenk, ate dee hart.",
       "category": "Gratitude",
       "generated_at": "2026-09-30T23:23:31.042108"
+    },
+    {
+      "english": "Hear the word, say it.",
+      "afrikaans": "Hoor die woord, sê dit.",
+      "transliteration": "Ho-or dih voord, say dit.",
+      "category": "Directions",
+      "generated_at": "2026-10-01T04:04:59.389072"
+    },
+    {
+      "english": "Repeat the sound, softly.",
+      "afrikaans": "Herhaal die klank, sag.",
+      "transliteration": "Her-hahl dih klank, sahg.",
+      "category": "Directions",
+      "generated_at": "2026-10-01T04:04:59.389082"
+    },
+    {
+      "english": "Feel the vowel, linger.",
+      "afrikaans": "Voel die vokaal, bly.",
+      "transliteration": "Fool dih vo-kahl, blay.",
+      "category": "Directions",
+      "generated_at": "2026-10-01T04:04:59.389083"
+    },
+    {
+      "english": "Watch my lips, closely.",
+      "afrikaans": "Kyk my lippe, nou.",
+      "transliteration": "Kyk my li-ppeh, now.",
+      "category": "Directions",
+      "generated_at": "2026-10-01T04:04:59.389084"
+    },
+    {
+      "english": "Breathe in, then out.",
+      "afrikaans": "Haal asem in, dan uit.",
+      "transliteration": "Hahl ah-sem in, dahn oyt.",
+      "category": "Directions",
+      "generated_at": "2026-10-01T04:04:59.389085"
     }
   ],
-  "last_updated": "2026-09-30T23:23:31.042110"
+  "last_updated": "2026-10-01T04:04:59.389087"
 }
