@@ -17884,7 +17884,42 @@
       "transliteration": "Maak deure oop, met woorde.",
       "category": "Motivation",
       "generated_at": "2026-10-01T23:37:58.845046"
+    },
+    {
+      "english": "Help, I'm stuck, behind this.",
+      "afrikaans": "Help, ek sit, vas hieragter.",
+      "transliteration": "Help, ek sit, vas hieragter.",
+      "category": "Emergency",
+      "generated_at": "2026-10-02T03:57:35.927580"
+    },
+    {
+      "english": "This structure, feels unstable.",
+      "afrikaans": "Hierdie struktuur, voel onstabiel.",
+      "transliteration": "Hierdie struktuur, voel onstabiel.",
+      "category": "Emergency",
+      "generated_at": "2026-10-02T03:57:35.927591"
+    },
+    {
+      "english": "I can't, breathe properly, down here.",
+      "afrikaans": "Ek kan nie, reg asemhaal, hier onder.",
+      "transliteration": "Ek kan nie, reg asemhaal, hier onder.",
+      "category": "Emergency",
+      "generated_at": "2026-10-02T03:57:35.927592"
+    },
+    {
+      "english": "The air, is becoming thin.",
+      "afrikaans": "Die lug, raak nou dun.",
+      "transliteration": "Die lug, raak nou dun.",
+      "category": "Emergency",
+      "generated_at": "2026-10-02T03:57:35.927593"
+    },
+    {
+      "english": "There's water, rising fast.",
+      "afrikaans": "Daar is water, wat vinnig styg.",
+      "transliteration": "Daar is water, wat vinnig styg.",
+      "category": "Emergency",
+      "generated_at": "2026-10-02T03:57:35.927594"
     }
   ],
-  "last_updated": "2026-10-01T23:37:58.845048"
+  "last_updated": "2026-10-02T03:57:35.927595"
 }
