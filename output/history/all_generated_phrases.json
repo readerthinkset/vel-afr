@@ -17954,7 +17954,42 @@
       "transliteration": "'n Geh-deel-deh stil-teh, is howt.",
       "category": "Relationships",
       "generated_at": "2026-10-02T17:26:51.706576"
+    },
+    {
+      "english": "Soon now, a change arrives.",
+      "afrikaans": "Gou nou, 'n verandering kom.",
+      "transliteration": "Gow now, 'n fer-CHUN-g [kh]om.",
+      "category": "Time",
+      "generated_at": "2026-10-02T18:57:45.567932"
+    },
+    {
+      "english": "Just this once, remember.",
+      "afrikaans": "Net hierdie keer, onthou.",
+      "transliteration": "Net HEE-ree-deh keer, on-HOW.",
+      "category": "Time",
+      "generated_at": "2026-10-02T18:57:45.567942"
+    },
+    {
+      "english": "Later on, we'll see.",
+      "afrikaans": "Later aan, ons sal sien.",
+      "transliteration": "LAH-ter ahn, ons sal seen.",
+      "category": "Time",
+      "generated_at": "2026-10-02T18:57:45.567943"
+    },
+    {
+      "english": "Right now, focus here.",
+      "afrikaans": "Nou net hier, fokus.",
+      "transliteration": "Now net HEE-er, FO-koos.",
+      "category": "Time",
+      "generated_at": "2026-10-02T18:57:45.567945"
+    },
+    {
+      "english": "Always at the right time.",
+      "afrikaans": "Altyd op die regte tyd.",
+      "transliteration": "AHL-tide op die REKH-te tite.",
+      "category": "Time",
+      "generated_at": "2026-10-02T18:57:45.567946"
     }
   ],
-  "last_updated": "2026-10-02T17:26:51.706577"
+  "last_updated": "2026-10-02T18:57:45.567947"
 }
