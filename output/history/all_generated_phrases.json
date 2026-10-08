@@ -18864,7 +18864,42 @@
       "transliteration": "Ons deel, un oo-nee-ke rit-me.",
       "category": "Friendship",
       "generated_at": "2026-10-08T00:00:27.928315"
+    },
+    {
+      "english": "Listen closely, now.",
+      "afrikaans": "Luister mooi, nou.",
+      "transliteration": "Luys-ter moy, now.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T04:23:57.666378"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "afrikaans": "Herhaal ná my, asseblief.",
+      "transliteration": "Her-hahl nah may, ah-se-bleef.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T04:23:57.666387"
+    },
+    {
+      "english": "Say it again, slowly.",
+      "afrikaans": "Sê dit weer, stadig.",
+      "transliteration": "Say dit veer, stad-eegh.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T04:23:57.666388"
+    },
+    {
+      "english": "Focus on the vowel, sound.",
+      "afrikaans": "Fokus op die klinker, klank.",
+      "transliteration": "Fo-kus op dee klink-er, klahngk.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T04:23:57.666390"
+    },
+    {
+      "english": "Mimic this tone, exactly.",
+      "afrikaans": "Nadoen hierdie toon, presies.",
+      "transliteration": "Nah-doon heer-dee toon, pre-sees.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T04:23:57.666391"
     }
   ],
-  "last_updated": "2026-10-08T00:00:27.928317"
+  "last_updated": "2026-10-08T04:23:57.666393"
 }
