@@ -19494,7 +19494,42 @@
       "transliteration": "Yoh stem, vind Af-ri-kaans.",
       "category": "Education",
       "generated_at": "2026-10-11T18:36:50.638740"
+    },
+    {
+      "english": "I've lost, my way.",
+      "afrikaans": "Ek, het verdwaal.",
+      "transliteration": "Ek, het fer-dwaal.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T20:44:03.478234"
+    },
+    {
+      "english": "This place, is unfamiliar.",
+      "afrikaans": "Hierdie plek, is vreemd.",
+      "transliteration": "Hee-ree-dy plek, is vraymt.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T20:44:03.478247"
+    },
+    {
+      "english": "I need, to get out, quickly.",
+      "afrikaans": "Ek moet, uit hier, vinnig.",
+      "transliteration": "Ek moet, oyt heer, vin-nigh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T20:44:03.478248"
+    },
+    {
+      "english": "Is anyone, there?",
+      "afrikaans": "Is daar, iemand?",
+      "transliteration": "Is daar, im-mahnt?",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T20:44:03.478249"
+    },
+    {
+      "english": "My phone, is dead.",
+      "afrikaans": "My foon, is dood.",
+      "transliteration": "My foon, is doot.",
+      "category": "Emergency",
+      "generated_at": "2026-10-11T20:44:03.478250"
     }
   ],
-  "last_updated": "2026-10-11T18:36:50.638741"
+  "last_updated": "2026-10-11T20:44:03.478252"
 }
