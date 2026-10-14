@@ -19984,7 +19984,42 @@
       "transliteration": "Migh stil plek-kie, is bai yow.",
       "category": "Relationships",
       "generated_at": "2026-10-14T16:30:20.058165"
+    },
+    {
+      "english": "Afrikaans whispers, in your ear.",
+      "afrikaans": "Afrikaans fluister, in jou oor.",
+      "transliteration": "Afrikaans fluister, in yow oor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-14T18:39:35.577061"
+    },
+    {
+      "english": "Find your Afrikaans, voice.",
+      "afrikaans": "Vind jou Afrikaans, stem.",
+      "transliteration": "Vind yow Afrikaans, stem.",
+      "category": "Motivation",
+      "generated_at": "2026-10-14T18:39:35.577071"
+    },
+    {
+      "english": "Each word, a tiny seed.",
+      "afrikaans": "Elke woord, 'n klein saad.",
+      "transliteration": "Elke woord, 'n kline saad.",
+      "category": "Motivation",
+      "generated_at": "2026-10-14T18:39:35.577072"
+    },
+    {
+      "english": "Listen, then echo back.",
+      "afrikaans": "Luister, dan eggo terug.",
+      "transliteration": "Luister, dan eggo terug.",
+      "category": "Motivation",
+      "generated_at": "2026-10-14T18:39:35.577074"
+    },
+    {
+      "english": "Afrikaans. It feels right.",
+      "afrikaans": "Afrikaans. Dit voel reg.",
+      "transliteration": "Afrikaans. Dit feel reg.",
+      "category": "Motivation",
+      "generated_at": "2026-10-14T18:39:35.577075"
     }
   ],
-  "last_updated": "2026-10-14T16:30:20.058166"
+  "last_updated": "2026-10-14T18:39:35.577076"
 }
