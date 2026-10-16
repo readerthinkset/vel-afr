@@ -20404,7 +20404,42 @@
       "transliteration": "Sterk soos, 'n rots, dik-kie.",
       "category": "Friendship",
       "generated_at": "2026-10-16T19:46:48.043660"
+    },
+    {
+      "english": "I've, swallowed, something, bad.",
+      "afrikaans": "Ek het, iets sleg, ingesluk.",
+      "transliteration": "Ek het, iets sleg, ingen-sluk.",
+      "category": "Emergency",
+      "generated_at": "2026-10-16T22:24:32.223473"
+    },
+    {
+      "english": "The ground, is shaking, violently.",
+      "afrikaans": "Die grond, skud, vreeslik.",
+      "transliteration": "Dee grond, shed, vrees-lik.",
+      "category": "Emergency",
+      "generated_at": "2026-10-16T22:24:32.223489"
+    },
+    {
+      "english": "My leg, is trapped, underneath.",
+      "afrikaans": "My been, sit vas, daaronder.",
+      "transliteration": "My been, sit fas, da-ron-der.",
+      "category": "Emergency",
+      "generated_at": "2026-10-16T22:24:32.223491"
+    },
+    {
+      "english": "A strange, tingling, sensation, now.",
+      "afrikaans": "N vreemde, tinteling, nou.",
+      "transliteration": "N freem-deh, tin-tel-ing, now.",
+      "category": "Emergency",
+      "generated_at": "2026-10-16T22:24:32.223492"
+    },
+    {
+      "english": "I can't, see, in this smoke.",
+      "afrikaans": "Ek kan, nie sien, in hierdie, rook.",
+      "transliteration": "Ek kan, nee seen, in heer-dee, rook.",
+      "category": "Emergency",
+      "generated_at": "2026-10-16T22:24:32.223493"
     }
   ],
-  "last_updated": "2026-10-16T19:46:48.043662"
+  "last_updated": "2026-10-16T22:24:32.223495"
 }
