@@ -20824,7 +20824,42 @@
       "transliteration": "LAHG HURT-LIK, SEEL STIGH.",
       "category": "Health",
       "generated_at": "2026-10-19T03:09:38.388716"
+    },
+    {
+      "english": "Your voice, finds its own song.",
+      "afrikaans": "Jou stem, vind sy eie lied.",
+      "transliteration": "Yow stem, find sye ey-eh leed.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T19:37:35.518105"
+    },
+    {
+      "english": "Breathe deep, and then you speak.",
+      "afrikaans": "Haal diep asem, en praat dan.",
+      "transliteration": "Hal deep ah-sem, en praht dan.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T19:37:35.518115"
+    },
+    {
+      "english": "Each word, a little spark.",
+      "afrikaans": "Elke woord, 'n klein vonkie.",
+      "transliteration": "El-kuh woo-rd, 'n kline fon-kee.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T19:37:35.518117"
+    },
+    {
+      "english": "You are, finding your rhythm.",
+      "afrikaans": "Jy vind, jou eie ritme.",
+      "transliteration": "Jay find, yow ey-eh rit-muh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T19:37:35.518118"
+    },
+    {
+      "english": "Open your mouth, let Afrikaans out.",
+      "afrikaans": "Maak jou mond oop, laat Afrikaans uit.",
+      "transliteration": "Mahk yow mond oop, laht Ah-fri-kahns oot.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T19:37:35.518119"
     }
   ],
-  "last_updated": "2026-10-19T03:09:38.388719"
+  "last_updated": "2026-10-19T19:37:35.518120"
 }
