@@ -21594,7 +21594,42 @@
       "transliteration": "Dee dahg-brayk vahg, fir dee lihg.",
       "category": "Patience",
       "generated_at": "2026-10-24T00:17:13.386446"
+    },
+    {
+      "english": "Hold on, very tight.",
+      "afrikaans": "Hou vas, baie styf.",
+      "transliteration": "How fas, baih stef.",
+      "category": "Emergency",
+      "generated_at": "2026-10-24T04:16:04.032446"
+    },
+    {
+      "english": "Don't touch, that wire.",
+      "afrikaans": "Moenie raak, daardie draad.",
+      "transliteration": "Moo-neh raak, dar-dee drahd.",
+      "category": "Emergency",
+      "generated_at": "2026-10-24T04:16:04.032458"
+    },
+    {
+      "english": "Is this, drinkable, water?",
+      "afrikaans": "Is hierdie, drinkbare, water?",
+      "transliteration": "Is heer-dee, drink-buh-reh, wah-ter?",
+      "category": "Emergency",
+      "generated_at": "2026-10-24T04:16:04.032460"
+    },
+    {
+      "english": "I think, I heard, a snap.",
+      "afrikaans": "Ek dink, ek het, iets gehoor breek.",
+      "transliteration": "Ek dink, ek het, its heh-hoor brek.",
+      "category": "Emergency",
+      "generated_at": "2026-10-24T04:16:04.032462"
+    },
+    {
+      "english": "This floor, feels spongy.",
+      "afrikaans": "Hierdie vloer, voel sponserig.",
+      "transliteration": "Heer-dee vloer, fool spon-suh-rikh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-24T04:16:04.032463"
     }
   ],
-  "last_updated": "2026-10-24T00:17:13.386448"
+  "last_updated": "2026-10-24T04:16:04.032465"
 }
