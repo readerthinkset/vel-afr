@@ -21629,7 +21629,42 @@
       "transliteration": "Heer-dee vloer, fool spon-suh-rikh.",
       "category": "Emergency",
       "generated_at": "2026-10-24T04:16:04.032463"
+    },
+    {
+      "english": "A crisp apple, for a quick snack.",
+      "afrikaans": "’n Krokante appel, vir ’n vinnige hapje.",
+      "transliteration": "'n Kroh-kahn-tuh ah-pel, fer 'n vin-hee-khuh hah-pyuh.",
+      "category": "Food",
+      "generated_at": "2026-10-24T15:16:05.048920"
+    },
+    {
+      "english": "Sweet berries, picked from the bush.",
+      "afrikaans": "Smaaklike bessies, gepluk van die bos.",
+      "transliteration": "Smah-kli-kuh beh-sis, ghe-pluk fan dee bos.",
+      "category": "Food",
+      "generated_at": "2026-10-24T15:16:05.048929"
+    },
+    {
+      "english": "A flaky croissant, with morning coffee.",
+      "afrikaans": "’n Vlokkerige croissant, by oggendkoffie.",
+      "transliteration": "'n Flok-keh-ri-khuh kroh-sahnt, by oh-ghendt-kof-fee.",
+      "category": "Food",
+      "generated_at": "2026-10-24T15:16:05.048931"
+    },
+    {
+      "english": "Savory stew, slow cooked perfection.",
+      "afrikaans": "Hartige stoompot, stadig gekookte volmaaktheid.",
+      "transliteration": "Har-ti-khuh stoom-pot, stah-dikh ghe-koo-ktuh fol-mahkh-thayt.",
+      "category": "Food",
+      "generated_at": "2026-10-24T15:16:05.048932"
+    },
+    {
+      "english": "Tangy yogurt, with a swirl of honey.",
+      "afrikaans": "Pittige jogurt, met ’n sweempie heuning.",
+      "transliteration": "Pit-ti-khuh yo-ghurt, met 'n sweem-pee hey-ning.",
+      "category": "Food",
+      "generated_at": "2026-10-24T15:16:05.048933"
     }
   ],
-  "last_updated": "2026-10-24T04:16:04.032465"
+  "last_updated": "2026-10-24T15:16:05.048935"
 }
