@@ -21839,7 +21839,42 @@
       "transliteration": "Ek kaik, net rohnd, dahn-kee.",
       "category": "Shopping",
       "generated_at": "2026-10-25T15:26:57.845960"
+    },
+    {
+      "english": "Order coffee, with a local accent.",
+      "afrikaans": "Bestel koffie, met plaaslike aksent.",
+      "transliteration": "Buh-stell kof-fee, met pla-ah-see-kuh ak-sent.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T17:22:27.502484"
+    },
+    {
+      "english": "Ask about the weather, feel the breeze.",
+      "afrikaans": "Vra oor die weer, voel die briesie.",
+      "transliteration": "Vrah oor dee veer, fool dee bree-see.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T17:22:27.502494"
+    },
+    {
+      "english": "Join the conversation, be part of it.",
+      "afrikaans": "Sluit aan by gesprek, wees deel daarvan.",
+      "transliteration": "Sluwt ahn bye gus-prek, vays dayl dah-fahn.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T17:22:27.502496"
+    },
+    {
+      "english": "Understand road signs, travel further.",
+      "afrikaans": "Verstaan verkeerstekens, reis verder.",
+      "transliteration": "Fuh-stahn fer-keer-stay-kens, rays fer-der.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T17:22:27.502497"
+    },
+    {
+      "english": "Buy fresh bread, still warm.",
+      "afrikaans": "Koop vars brood, nog warm.",
+      "transliteration": "Koop fahs broht, nog vahrm.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T17:22:27.502499"
     }
   ],
-  "last_updated": "2026-10-25T15:26:57.845962"
+  "last_updated": "2026-10-25T17:22:27.502500"
 }
