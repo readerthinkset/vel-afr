@@ -21874,7 +21874,42 @@
       "transliteration": "Koop fahs broht, nog vahrm.",
       "category": "Purpose",
       "generated_at": "2026-10-25T17:22:27.502499"
+    },
+    {
+      "english": "The server hums, a quiet power.",
+      "afrikaans": "Die bediener neurie, 'n stille krag.",
+      "transliteration": "Dee beh-DEE-ner N(G)OO-ree, 'n STILL-eh KRAHK.",
+      "category": "Technology",
+      "generated_at": "2026-10-25T19:30:02.041491"
+    },
+    {
+      "english": "This app, makes life easier.",
+      "afrikaans": "Hierdie app, maak die lewe makliker.",
+      "transliteration": "HEE-rdee AP, MAHCK dee LEE-veh MAHCK-lih-ker.",
+      "category": "Technology",
+      "generated_at": "2026-10-25T19:30:02.041501"
+    },
+    {
+      "english": "My smart watch, tracks my steps.",
+      "afrikaans": "My slim horlosie, teken my treë aan.",
+      "transliteration": "My SLIM hor-LOH-see, TEH-ken my TREH-uh AHN.",
+      "category": "Technology",
+      "generated_at": "2026-10-25T19:30:02.041503"
+    },
+    {
+      "english": "The cloud stores, my digital memories.",
+      "afrikaans": "Die wolk stoor, my digitale herinneringe.",
+      "transliteration": "Dee VOLK STOOR, my dih-gih-TAH-leh heh-RIN-neh-rin-geh.",
+      "category": "Technology",
+      "generated_at": "2026-10-25T19:30:02.041504"
+    },
+    {
+      "english": "New software, a fresh start.",
+      "afrikaans": "Nuwe sagteware, 'n vars begin.",
+      "transliteration": "NOO-veh SAHKHT-vah-reh, 'n FAHRSS beh-HIN.",
+      "category": "Technology",
+      "generated_at": "2026-10-25T19:30:02.041505"
     }
   ],
-  "last_updated": "2026-10-25T17:22:27.502500"
+  "last_updated": "2026-10-25T19:30:02.041506"
 }
