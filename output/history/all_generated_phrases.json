@@ -21909,7 +21909,42 @@
       "transliteration": "NOO-veh SAHKHT-vah-reh, 'n FAHRSS beh-HIN.",
       "category": "Technology",
       "generated_at": "2026-10-25T19:30:02.041505"
+    },
+    {
+      "english": "Your Afrikaans, is taking flight.",
+      "afrikaans": "Jou Afrikaans, neem vlug.",
+      "transliteration": "Yow Afrikaans, name vlook.",
+      "category": "Confidence",
+      "generated_at": "2026-10-25T22:29:36.206690"
+    },
+    {
+      "english": "Each word, a new discovery.",
+      "afrikaans": "Elke woord, 'n nuwe ontdekking.",
+      "transliteration": "Elka wooord, a new-uh ontdekking.",
+      "category": "Confidence",
+      "generated_at": "2026-10-25T22:29:36.206700"
+    },
+    {
+      "english": "You're finding your voice, now.",
+      "afrikaans": "Jy vind jou stem, nou.",
+      "transliteration": "Yai find yow stem, now.",
+      "category": "Confidence",
+      "generated_at": "2026-10-25T22:29:36.206701"
+    },
+    {
+      "english": "Speak boldly, little by little.",
+      "afrikaans": "Praat vetrouend, bietjie vir bietjie.",
+      "transliteration": "Praat fettrow-end, beet-jie for beet-jie.",
+      "category": "Confidence",
+      "generated_at": "2026-10-25T22:29:36.206702"
+    },
+    {
+      "english": "The sounds, they are yours.",
+      "afrikaans": "Die klanke, hulle is joune.",
+      "transliteration": "Dee klank-uh, hella is yown-uh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-25T22:29:36.206703"
     }
   ],
-  "last_updated": "2026-10-25T19:30:02.041506"
+  "last_updated": "2026-10-25T22:29:36.206704"
 }
