@@ -22959,7 +22959,42 @@
       "transliteration": "Laat Af-ri-KAHN-s, in yow blom.",
       "category": "Motivation",
       "generated_at": "2026-10-31T20:26:27.373158"
+    },
+    {
+      "english": "Danger, ahead, move back.",
+      "afrikaans": "Gevaar, vooruit, tree terug.",
+      "transliteration": "Gevahr, voor-ayt, tray terug.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T23:20:22.257493"
+    },
+    {
+      "english": "Don't go, that way.",
+      "afrikaans": "Moenie, daardie kant, toe nie.",
+      "transliteration": "Moo-nee, dar-dee kant, too nee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T23:20:22.257502"
+    },
+    {
+      "english": "I need, to escape, now.",
+      "afrikaans": "Ek moet, ontsnap, nou.",
+      "transliteration": "Ek moot, ont-snap, now.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T23:20:22.257503"
+    },
+    {
+      "english": "Watch out, for falling, things.",
+      "afrikaans": "Pasop, vir goed, wat val.",
+      "transliteration": "Pas-op, vir goot, wat val.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T23:20:22.257503"
+    },
+    {
+      "english": "Is anyone, injured?",
+      "afrikaans": "Is enigiemand, beseer?",
+      "transliteration": "Is en-ee-geem-and, beh-seer?",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T23:20:22.257504"
     }
   ],
-  "last_updated": "2026-10-31T20:26:27.373160"
+  "last_updated": "2026-10-31T23:20:22.257505"
 }
