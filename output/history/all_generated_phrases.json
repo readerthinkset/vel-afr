@@ -22889,7 +22889,42 @@
       "transliteration": "'n Spee-see-ah-leh gas, het ah-n-kuh-kom.",
       "category": "Greetings",
       "generated_at": "2026-10-31T16:42:11.653489"
+    },
+    {
+      "english": "Follow the line, draw it.",
+      "afrikaans": "Volg die lyn, teken dit.",
+      "transliteration": "Folg de lin, te-ken dit.",
+      "category": "Directions",
+      "generated_at": "2026-10-31T18:07:29.169830"
+    },
+    {
+      "english": "Echo the rhythm, feel it.",
+      "afrikaans": "Weergalm die ritme, voel dit.",
+      "transliteration": "Veer-galm de rit-me, ful dit.",
+      "category": "Directions",
+      "generated_at": "2026-10-31T18:07:29.169841"
+    },
+    {
+      "english": "Say the word, clearly.",
+      "afrikaans": "Sê die woord, duidelik.",
+      "transliteration": "Se de vord, dau-de-lik.",
+      "category": "Directions",
+      "generated_at": "2026-10-31T18:07:29.169842"
+    },
+    {
+      "english": "Listen for the stress, notice.",
+      "afrikaans": "Luister na die klem, merk op.",
+      "transliteration": "Luis-ter na de klem, merk op.",
+      "category": "Directions",
+      "generated_at": "2026-10-31T18:07:29.169843"
+    },
+    {
+      "english": "Repeat the sentence, slowly.",
+      "afrikaans": "Herhaal die sin, stadig.",
+      "transliteration": "Her-haal de sin, stag-de.",
+      "category": "Directions",
+      "generated_at": "2026-10-31T18:07:29.169844"
     }
   ],
-  "last_updated": "2026-10-31T16:42:11.653491"
+  "last_updated": "2026-10-31T18:07:29.169845"
 }
