@@ -23134,7 +23134,42 @@
       "transliteration": "Say vaht jie dink, doo-duh-lik.",
       "category": "Confidence",
       "generated_at": "2026-11-01T23:30:22.317074"
+    },
+    {
+      "english": "The tablet, glows softly.",
+      "afrikaans": "Die tablet, gloei sag.",
+      "transliteration": "Dee tah-blet, gloo-ee sahg.",
+      "category": "Technology",
+      "generated_at": "2026-11-02T05:39:34.276703"
+    },
+    {
+      "english": "This drone, flies so high.",
+      "afrikaans": "Hierdie drone, vlieg baie hoog.",
+      "transliteration": "Heer-dee droh-neh, vleegh bah-yeh hohkh.",
+      "category": "Technology",
+      "generated_at": "2026-11-02T05:39:34.276715"
+    },
+    {
+      "english": "My laptop, boots up fast.",
+      "afrikaans": "My skootrekenaar, begin vinnig.",
+      "transliteration": "My skoot-reh-keh-naar, beh-ghin vin-negh.",
+      "category": "Technology",
+      "generated_at": "2026-11-02T05:39:34.276717"
+    },
+    {
+      "english": "A new chip, is powerful.",
+      "afrikaans": "Nuwe skyfie, is kragtig.",
+      "transliteration": "Noo-veh skai-fee, is kragh-tig.",
+      "category": "Technology",
+      "generated_at": "2026-11-02T05:39:34.276719"
+    },
+    {
+      "english": "The wifi signal, is strong.",
+      "afrikaans": "Wifi sein, is sterk.",
+      "transliteration": "Wei-fai sain, is sterk.",
+      "category": "Technology",
+      "generated_at": "2026-11-02T05:39:34.276720"
     }
   ],
-  "last_updated": "2026-11-01T23:30:22.317076"
+  "last_updated": "2026-11-02T05:39:34.276722"
 }
