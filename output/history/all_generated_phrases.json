@@ -23729,7 +23729,42 @@
       "transliteration": "Waar kry ek handdoeke, in hierdie winkel?",
       "category": "Shopping",
       "generated_at": "2026-11-05T20:55:25.182469"
+    },
+    {
+      "english": "Good morning, how is your day going?",
+      "afrikaans": "Goeie môre, hoe gaan jou dag?",
+      "transliteration": "Goeie môre, hoe gaan jou dag?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:37:48.819493"
+    },
+    {
+      "english": "I’m learning Afrikaans, step by step, today.",
+      "afrikaans": "Ek leer Afrikaans, stap vir stap, vandag.",
+      "transliteration": "Ek leer Afrikaans, stap vir stap, vandag.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:37:48.819507"
+    },
+    {
+      "english": "Please speak slowly, I’m taking notes.",
+      "afrikaans": "Praat asseblief stadig, ek maak notas.",
+      "transliteration": "Praat asseblief stadig, ek maak notas.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:37:48.819509"
+    },
+    {
+      "english": "Can you help me, just a little?",
+      "afrikaans": "Kan jy my help, net bietjie?",
+      "transliteration": "Kan jy my help, net bietjie?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:37:48.819511"
+    },
+    {
+      "english": "Where is the bus stop, near here?",
+      "afrikaans": "Waar is die bushalte, naby hier?",
+      "transliteration": "Waar is die bushalte, naby hier?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:37:48.819512"
     }
   ],
-  "last_updated": "2026-11-05T20:55:25.182471"
+  "last_updated": "2026-11-05T22:37:48.819514"
 }
