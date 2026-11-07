@@ -23974,7 +23974,42 @@
       "transliteration": "Hierdie jeans lyk goed, en voel duursaam.",
       "category": "Clothes",
       "generated_at": "2026-11-07T05:40:13.872652"
+    },
+    {
+      "english": "Fire spreading fast, get outside now.",
+      "afrikaans": "Vuur versprei vinnig, kom buite nou.",
+      "transliteration": "Vuur versprei vinnig, kom buite nou.",
+      "category": "Emergency",
+      "generated_at": "2026-11-07T17:19:14.987204"
+    },
+    {
+      "english": "Emergency alarm is sounding, please stay calm.",
+      "afrikaans": "Noodalarm lui nou, bly asseblief kalm.",
+      "transliteration": "Noodalarm lui nou, bly asseblief kalm.",
+      "category": "Emergency",
+      "generated_at": "2026-11-07T17:19:14.987214"
+    },
+    {
+      "english": "Smoke is getting worse, cover your mouth.",
+      "afrikaans": "Rook word erger, bedek jou mond.",
+      "transliteration": "Rook word erger, bedek jou mond.",
+      "category": "Emergency",
+      "generated_at": "2026-11-07T17:19:14.987217"
+    },
+    {
+      "english": "I see sparks near the outlet, stop!",
+      "afrikaans": "Ek sien vonke by die prop, stop!",
+      "transliteration": "Ek sien vonke by die prop, stop!",
+      "category": "Emergency",
+      "generated_at": "2026-11-07T17:19:14.987218"
+    },
+    {
+      "english": "Loud crash happened, are you okay?",
+      "afrikaans": "Hard geklap, is jy oukei?",
+      "transliteration": "Hard geklap, is jy oukei?",
+      "category": "Emergency",
+      "generated_at": "2026-11-07T17:19:14.987219"
     }
   ],
-  "last_updated": "2026-11-07T05:40:13.872653"
+  "last_updated": "2026-11-07T17:19:14.987221"
 }
