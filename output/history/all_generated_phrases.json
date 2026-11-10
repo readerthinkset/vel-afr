@@ -24534,7 +24534,42 @@
       "transliteration": "Kyk na die sonsopkoms, begin met ’n glimlag.",
       "category": "Holidays",
       "generated_at": "2026-11-10T08:08:18.984455"
+    },
+    {
+      "english": "You’re getting clearer, keep going.",
+      "afrikaans": "Jy word duideliker, hou aan.",
+      "transliteration": "yoo vord doideliker, hou aan",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:12:44.533057"
+    },
+    {
+      "english": "Great job, that was smooth.",
+      "afrikaans": "Goeie werk, dit was glad.",
+      "transliteration": "goei werk, dit was glad",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:12:44.533070"
+    },
+    {
+      "english": "Say it again, you’ve got this.",
+      "afrikaans": "Sê dit weer, jy’s reg.",
+      "transliteration": "say dit weer, jy’s reg",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:12:44.533071"
+    },
+    {
+      "english": "Nice try, you’re improving fast.",
+      "afrikaans": "Mooi probeer, jy verbeter vinnig.",
+      "transliteration": "mooi probeer, jy verbeter vinnig",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:12:44.533073"
+    },
+    {
+      "english": "Slow down, then speak naturally.",
+      "afrikaans": "Vat stadiger, sê dan natuurlik.",
+      "transliteration": "vat stadiger, say dan natuurlik",
+      "category": "Success",
+      "generated_at": "2026-11-10T19:12:44.533074"
     }
   ],
-  "last_updated": "2026-11-10T08:08:18.984457"
+  "last_updated": "2026-11-10T19:12:44.533075"
 }
