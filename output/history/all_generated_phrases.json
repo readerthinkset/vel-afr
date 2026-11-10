@@ -24569,7 +24569,42 @@
       "transliteration": "vat stadiger, say dan natuurlik",
       "category": "Success",
       "generated_at": "2026-11-10T19:12:44.533074"
+    },
+    {
+      "english": "Take your time, and try again.",
+      "afrikaans": "Neem jou tyd, en probeer weer.",
+      "transliteration": "nehm yo tyd, en probeer vair",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T20:48:54.987762"
+    },
+    {
+      "english": "Relax your jaw, you’ll manage.",
+      "afrikaans": "Ontspan jou kakebeen, jy sal dit regkry.",
+      "transliteration": "ontspan yo kakbeen, yeh sal dit regkry",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T20:48:54.987778"
+    },
+    {
+      "english": "Start slow, then build speed.",
+      "afrikaans": "Begin stadig, en bou dan spoed op.",
+      "transliteration": "begin stadig, en bou dan spoed op",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T20:48:54.987780"
+    },
+    {
+      "english": "Say it softly, then louder.",
+      "afrikaans": "Sê dit sag, dan harder.",
+      "transliteration": "seh dit sag, dan harder",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T20:48:54.987781"
+    },
+    {
+      "english": "You’re learning, one word at a time.",
+      "afrikaans": "Jy leer, een woord op ’n slag.",
+      "transliteration": "yuh leer, een woord op an slag",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T20:48:54.987783"
     }
   ],
-  "last_updated": "2026-11-10T19:12:44.533075"
+  "last_updated": "2026-11-10T20:48:54.987785"
 }
