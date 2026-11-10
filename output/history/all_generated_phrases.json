@@ -24604,7 +24604,42 @@
       "transliteration": "yuh leer, een woord op an slag",
       "category": "Confidence",
       "generated_at": "2026-11-10T20:48:54.987783"
+    },
+    {
+      "english": "How spicy is this curry?",
+      "afrikaans": "Hoe pittig is hierdie kerrie?",
+      "transliteration": "Hoe PITtig is HIERdie KERrie?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T22:11:30.669707"
+    },
+    {
+      "english": "Is there a vegetarian option tonight?",
+      "afrikaans": "Is daar vanaand ’n vegetariese opsie?",
+      "transliteration": "Is DAAR vanaand o vegetaRIEse OPsie?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T22:11:30.669726"
+    },
+    {
+      "english": "What do you recommend for beginners?",
+      "afrikaans": "Wat beveel jy aan vir beginners?",
+      "transliteration": "Wat beveel jy AAN vir beginNERS?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T22:11:30.669728"
+    },
+    {
+      "english": "Can we get water, please?",
+      "afrikaans": "Kan ons asseblief water kry?",
+      "transliteration": "Kan ons asSEblief WAter kry?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T22:11:30.669730"
+    },
+    {
+      "english": "Could we see the wine list?",
+      "afrikaans": "Kan ons asseblief die wynkaart sien?",
+      "transliteration": "Kan ons asSEblief die wynkaart SIEN?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T22:11:30.669732"
     }
   ],
-  "last_updated": "2026-11-10T20:48:54.987785"
+  "last_updated": "2026-11-10T22:11:30.669734"
 }
