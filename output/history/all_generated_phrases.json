@@ -24884,7 +24884,42 @@
       "transliteration": "ek swaai my bene uit die bed",
       "category": "Daily Routine",
       "generated_at": "2026-11-12T06:26:27.074911"
+    },
+    {
+      "english": "Please call emergency services right now.",
+      "afrikaans": "Bel asseblief nou die noodnommer.",
+      "transliteration": "Bel asseblief nou die noodnommer.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T19:26:17.145450"
+    },
+    {
+      "english": "I need medical help, quickly.",
+      "afrikaans": "Ek benodig vinnige mediese hulp.",
+      "transliteration": "Ek benodig vinnige mediese hulp.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T19:26:17.145465"
+    },
+    {
+      "english": "Are you hurt? Please answer me.",
+      "afrikaans": "Is jy seer? Antwoord asseblief vir my.",
+      "transliteration": "Is jy seer? Antwoord asseblief vir my.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T19:26:17.145466"
+    },
+    {
+      "english": "I have chest pain, help me.",
+      "afrikaans": "Ek het borspyn, help my asseblief.",
+      "transliteration": "Ek het borspyn, help my asseblief.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T19:26:17.145467"
+    },
+    {
+      "english": "Someone has collapsed, call for help!",
+      "afrikaans": "Iemand het ineengestort, skakel hulp!",
+      "transliteration": "Iemand het ineengestort, skakel hulp!",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T19:26:17.145468"
     }
   ],
-  "last_updated": "2026-11-12T06:26:27.074914"
+  "last_updated": "2026-11-12T19:26:17.145470"
 }
