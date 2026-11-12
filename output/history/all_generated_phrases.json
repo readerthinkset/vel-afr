@@ -24814,7 +24814,42 @@
       "transliteration": "ont-SPAN yoo SHOH-ers sag, LIG-ter a-sem",
       "category": "Health",
       "generated_at": "2026-11-11T23:22:06.425538"
+    },
+    {
+      "english": "The cat stretches, then curls up.",
+      "afrikaans": "Die kat rek uit, en krul op.",
+      "transliteration": "die kat rek uit, en krul op",
+      "category": "Animals",
+      "generated_at": "2026-11-12T01:49:52.074677"
+    },
+    {
+      "english": "A dog trots past the gate.",
+      "afrikaans": "’n Hond stap verby die hek.",
+      "transliteration": "n hond stap verby die hek",
+      "category": "Animals",
+      "generated_at": "2026-11-12T01:49:52.074692"
+    },
+    {
+      "english": "Birds sing softly from the roof.",
+      "afrikaans": "Voëls sing sag van die dak af.",
+      "transliteration": "voels sing sag van die dak af",
+      "category": "Animals",
+      "generated_at": "2026-11-12T01:49:52.074695"
+    },
+    {
+      "english": "A frog croaks near the pond.",
+      "afrikaans": "’n Padda kwaak naby die dam.",
+      "transliteration": "n padde kwaak naby die dam",
+      "category": "Animals",
+      "generated_at": "2026-11-12T01:49:52.074696"
+    },
+    {
+      "english": "The horse nickers, looking at me.",
+      "afrikaans": "Die perd snuif, en kyk na my.",
+      "transliteration": "die perd snuif, en kyk na my",
+      "category": "Animals",
+      "generated_at": "2026-11-12T01:49:52.074698"
     }
   ],
-  "last_updated": "2026-11-11T23:22:06.425541"
+  "last_updated": "2026-11-12T01:49:52.074700"
 }
