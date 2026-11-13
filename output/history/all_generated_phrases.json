@@ -25059,7 +25059,42 @@
       "transliteration": "haar bloes lyk skoon en netjies",
       "category": "Clothes",
       "generated_at": "2026-11-13T05:46:09.790391"
+    },
+    {
+      "english": "Hello, nice to meet you today.",
+      "afrikaans": "Hallo, bly om jou te ontmoet.",
+      "transliteration": "Ha-loo, blei om yu te ontmoet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T19:04:31.251223"
+    },
+    {
+      "english": "I would like some water, please.",
+      "afrikaans": "Ek sal graag water hê, asseblief.",
+      "transliteration": "Ek sal graag wa-ter hee, as-se-blief.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T19:04:31.251236"
+    },
+    {
+      "english": "Where is the nearest shop?",
+      "afrikaans": "Waar is die naaste winkel?",
+      "transliteration": "Waar is die na-a-ste winkel?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T19:04:31.251239"
+    },
+    {
+      "english": "What time does it start?",
+      "afrikaans": "Hoe laat begin dit?",
+      "transliteration": "Hoe laat be-gin dit?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T19:04:31.251240"
+    },
+    {
+      "english": "I don’t understand, can you repeat?",
+      "afrikaans": "Ek verstaan nie, kan jy weer sê?",
+      "transliteration": "Ek ver-staan nie, kan yu weer se?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T19:04:31.251242"
     }
   ],
-  "last_updated": "2026-11-13T05:46:09.790393"
+  "last_updated": "2026-11-13T19:04:31.251244"
 }
