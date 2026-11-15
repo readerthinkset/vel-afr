@@ -25514,7 +25514,42 @@
       "transliteration": "Oefen met 'n glimlag, bly dapper.",
       "category": "Strength",
       "generated_at": "2026-11-15T21:30:12.623973"
+    },
+    {
+      "english": "It’s cloudy, but still quite bright.",
+      "afrikaans": "Dit is bewolk, maar steeds redelik helder.",
+      "transliteration": "dit is BEWOLK, maar STEEDS redelIk HELder",
+      "category": "Weather",
+      "generated_at": "2026-11-15T23:48:05.153973"
+    },
+    {
+      "english": "The rain starts, and then eases off.",
+      "afrikaans": "Die reën begin, en dan sak dit af.",
+      "transliteration": "die reËn BEgin, en dan SAK dit af",
+      "category": "Weather",
+      "generated_at": "2026-11-15T23:48:05.153990"
+    },
+    {
+      "english": "A cold front is moving in now.",
+      "afrikaans": "’n Koue front beweeg nou in.",
+      "transliteration": "n KOUe FRONT beweeg NOU in",
+      "category": "Weather",
+      "generated_at": "2026-11-15T23:48:05.153991"
+    },
+    {
+      "english": "The clouds clear, and we see blue.",
+      "afrikaans": "Die wolke maak oop, en ons sien blou.",
+      "transliteration": "die wolke MAAK oop, en ONS sien BLOU",
+      "category": "Weather",
+      "generated_at": "2026-11-15T23:48:05.153993"
+    },
+    {
+      "english": "Humidity makes the day feel sticky.",
+      "afrikaans": "Die humiditeit maak die dag taai.",
+      "transliteration": "die huMIDiteit MAAK die DAG taai",
+      "category": "Weather",
+      "generated_at": "2026-11-15T23:48:05.153994"
     }
   ],
-  "last_updated": "2026-11-15T21:30:12.623975"
+  "last_updated": "2026-11-15T23:48:05.153996"
 }
