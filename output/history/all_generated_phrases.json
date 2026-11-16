@@ -25549,7 +25549,42 @@
       "transliteration": "die huMIDiteit MAAK die DAG taai",
       "category": "Weather",
       "generated_at": "2026-11-15T23:48:05.153994"
+    },
+    {
+      "english": "Hi! I’m so glad to see you.",
+      "afrikaans": "Hallo! Ek is so bly om jou te sien.",
+      "transliteration": "ha-lo! ek iss so bly om jou te sien",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:33:35.081028"
+    },
+    {
+      "english": "Welcome, it’s great having you here.",
+      "afrikaans": "Welkom, dit is wonderlik om jou hier te hê.",
+      "transliteration": "wel-kom, dit iss won-der-lik om jou hier te hai",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:33:35.081044"
+    },
+    {
+      "english": "Good morning, I hope you’re well.",
+      "afrikaans": "Goeie môre, ek hoop dit gaan goed met jou.",
+      "transliteration": "goe-ee more, ek hoop dit gaan goed met jou",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:33:35.081045"
+    },
+    {
+      "english": "Good afternoon, welcome to our space.",
+      "afrikaans": "Goeie middag, welkom by ons plek.",
+      "transliteration": "goe-ee mid-dag, wel-kom by ons plek",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:33:35.081048"
+    },
+    {
+      "english": "Good evening, thanks for coming by.",
+      "afrikaans": "Goeie aand, dankie dat jy kom kuier het.",
+      "transliteration": "goe-ee aand, dankie dat jy kom kuier het",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:33:35.081049"
     }
   ],
-  "last_updated": "2026-11-15T23:48:05.153996"
+  "last_updated": "2026-11-16T05:33:35.081051"
 }
