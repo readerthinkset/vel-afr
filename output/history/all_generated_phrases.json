@@ -25619,7 +25619,42 @@
       "transliteration": "Ons LAG, en die DAG voel LIG-ter",
       "category": "Friendship",
       "generated_at": "2026-11-16T21:31:13.044299"
+    },
+    {
+      "english": "Thank you, for the help today.",
+      "afrikaans": "Dankie, vir jou hulp vandag.",
+      "transliteration": "Dankie, vir jo hulp vandag.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T23:15:45.828102"
+    },
+    {
+      "english": "I really appreciate your kindness.",
+      "afrikaans": "Ek waardeer jou vriendelikheid baie.",
+      "transliteration": "Ek waardeer jo vriendelikheid baie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T23:15:45.828115"
+    },
+    {
+      "english": "Thanks for being so patient with me.",
+      "afrikaans": "Dankie dat jy so geduldig met my is.",
+      "transliteration": "Dankie dat jy so geduldig met my is.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T23:15:45.828117"
+    },
+    {
+      "english": "Your support means everything to me.",
+      "afrikaans": "Jou ondersteuning beteken alles vir my.",
+      "transliteration": "Jo ondersteuning beteken alles vir my.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T23:15:45.828119"
+    },
+    {
+      "english": "Thank you, you made me feel welcome.",
+      "afrikaans": "Dankie, jy laat my welkom voel.",
+      "transliteration": "Dankie, jy laat my welkom voel.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T23:15:45.828121"
     }
   ],
-  "last_updated": "2026-11-16T21:31:13.044302"
+  "last_updated": "2026-11-16T23:15:45.828123"
 }
