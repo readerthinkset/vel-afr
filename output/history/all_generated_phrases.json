@@ -25794,7 +25794,42 @@
       "transliteration": "Vyf mi-nu-te, dan be-gin ons.",
       "category": "Numbers",
       "generated_at": "2026-11-17T20:21:43.936932"
+    },
+    {
+      "english": "I wake up, and I smile.",
+      "afrikaans": "Ek word wakker, en glimlag.",
+      "transliteration": "ek vyeer vakeer, en glim-lag",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:06:55.439589"
+    },
+    {
+      "english": "I reach for my phone, softly.",
+      "afrikaans": "Ek reik na my foon, sag.",
+      "transliteration": "ek reyeek na my foon, sag",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:06:55.439604"
+    },
+    {
+      "english": "I turn off the alarm, gently.",
+      "afrikaans": "Ek skakel die wekker af, sag.",
+      "transliteration": "ek skakel die wek-ker af, sag",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:06:55.439606"
+    },
+    {
+      "english": "I pull on clothes, without hurry.",
+      "afrikaans": "Ek trek klere aan, sonder haas.",
+      "transliteration": "ek trek klere aan, son-der haas",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:06:55.439607"
+    },
+    {
+      "english": "I wash my face, and feel fresh.",
+      "afrikaans": "Ek was my gesig, en voel vars.",
+      "transliteration": "ek was my ge-sig, en voel vars",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:06:55.439608"
     }
   ],
-  "last_updated": "2026-11-17T20:21:43.936934"
+  "last_updated": "2026-11-17T22:06:55.439610"
 }
