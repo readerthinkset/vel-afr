@@ -25759,7 +25759,42 @@
       "transliteration": "TEH-ken vry-AY-lik, sonder om te WER-ree",
       "category": "Creativity",
       "generated_at": "2026-11-17T07:11:02.970796"
+    },
+    {
+      "english": "One apple for me, please.",
+      "afrikaans": "Een appel vir my, asseblief.",
+      "transliteration": "Een ap-pel vir my, as-se-blief.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T20:21:43.936911"
+    },
+    {
+      "english": "Two cups of tea, please.",
+      "afrikaans": "Twee koppies tee, asseblief.",
+      "transliteration": "Twee kop-pies tay, as-se-blief.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T20:21:43.936927"
+    },
+    {
+      "english": "Three books on the table.",
+      "afrikaans": "Drie boeke op die tafel.",
+      "transliteration": "Dri(e) bu-ke op die ta-fel.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T20:21:43.936930"
+    },
+    {
+      "english": "Four kids running outside now.",
+      "afrikaans": "Vier kinders hardloop buite nou.",
+      "transliteration": "Vier kin-ders hard-loop bui-te nou.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T20:21:43.936931"
+    },
+    {
+      "english": "Five minutes, then we start.",
+      "afrikaans": "Vyf minute, dan begin ons.",
+      "transliteration": "Vyf mi-nu-te, dan be-gin ons.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T20:21:43.936932"
     }
   ],
-  "last_updated": "2026-11-17T07:11:02.970798"
+  "last_updated": "2026-11-17T20:21:43.936934"
 }
