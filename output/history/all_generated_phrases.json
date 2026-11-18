@@ -25899,7 +25899,42 @@
       "transliteration": "botter smelt, op warm roos-ter-brod",
       "category": "Food",
       "generated_at": "2026-11-18T02:23:17.197877"
+    },
+    {
+      "english": "Be patient, it will sort itself.",
+      "afrikaans": "Wees geduldig, dit sal regkom.",
+      "transliteration": "Vyess geduldig, dit sal regkom.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T06:35:39.276524"
+    },
+    {
+      "english": "Hold on, we’re almost there.",
+      "afrikaans": "Hou net vas, ons is byna daar.",
+      "transliteration": "Hou net vas, ons is byna daar.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T06:35:39.276536"
+    },
+    {
+      "english": "Slow down, your pace is enough.",
+      "afrikaans": "Vertraag bietjie, jou tempo is genoeg.",
+      "transliteration": "Vertraag bietjie, jouw tempo is genoeg.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T06:35:39.276538"
+    },
+    {
+      "english": "Take a breath, then try again.",
+      "afrikaans": "Neem asem, dan probeer weer.",
+      "transliteration": "Neem asem, dan probeer weer.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T06:35:39.276539"
+    },
+    {
+      "english": "Wait calmly, don’t chase answers.",
+      "afrikaans": "Wag kalm, moenie antwoorde jaag nie.",
+      "transliteration": "Wag kalm, moenie antwoorde jaag nie.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T06:35:39.276541"
     }
   ],
-  "last_updated": "2026-11-18T02:23:17.197879"
+  "last_updated": "2026-11-18T06:35:39.276543"
 }
