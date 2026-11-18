@@ -25934,7 +25934,42 @@
       "transliteration": "Wag kalm, moenie antwoorde jaag nie.",
       "category": "Patience",
       "generated_at": "2026-11-18T06:35:39.276541"
+    },
+    {
+      "english": "Keep going, you’re making progress now.",
+      "afrikaans": "Hou aan, jy maak nou vordering.",
+      "transliteration": "Hoo aan, jy maak nou vordering.",
+      "category": "Success",
+      "generated_at": "2026-11-18T19:52:13.617073"
+    },
+    {
+      "english": "Relax, speak slowly and clearly.",
+      "afrikaans": "Ontspan, praat stadig en duidelik.",
+      "transliteration": "Ontspan, praat stadig en duidelik.",
+      "category": "Success",
+      "generated_at": "2026-11-18T19:52:13.617085"
+    },
+    {
+      "english": "You’re learning fast, don’t doubt.",
+      "afrikaans": "Jy leer vinnig, moenie twyfel nie.",
+      "transliteration": "Jy leer vinnig, moenie twyfel nie.",
+      "category": "Success",
+      "generated_at": "2026-11-18T19:52:13.617086"
+    },
+    {
+      "english": "Great work, that sounded really good.",
+      "afrikaans": "Goeie werk, dit het regtig goed geklink.",
+      "transliteration": "Goeie werk, dit het regtig goed geklink.",
+      "category": "Success",
+      "generated_at": "2026-11-18T19:52:13.617088"
+    },
+    {
+      "english": "Trust yourself, you can do this.",
+      "afrikaans": "Glo jouself, jy kan dit doen.",
+      "transliteration": "Glo jouself, jy kan dit doen.",
+      "category": "Success",
+      "generated_at": "2026-11-18T19:52:13.617089"
     }
   ],
-  "last_updated": "2026-11-18T06:35:39.276543"
+  "last_updated": "2026-11-18T19:52:13.617091"
 }
