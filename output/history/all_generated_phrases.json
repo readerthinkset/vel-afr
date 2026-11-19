@@ -26109,7 +26109,42 @@
       "transliteration": "kan jy my wys op die kaart",
       "category": "Travel",
       "generated_at": "2026-11-19T06:37:14.907953"
+    },
+    {
+      "english": "I can handle this sound, calmly.",
+      "afrikaans": "Ek kan hierdie klank hanteer, kalm.",
+      "transliteration": "ek kan hierdie klank hanteer, kaalm",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:51:42.569561"
+    },
+    {
+      "english": "Stay with it, you’re improving.",
+      "afrikaans": "Bly daarmee, jy verbeter.",
+      "transliteration": "bly daarmee, jy verbeter",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:51:42.569578"
+    },
+    {
+      "english": "Yes, that’s Afrikaans—say it again.",
+      "afrikaans": "Ja, dis Afrikaans—sê dit weer.",
+      "transliteration": "ja, dis afrikaans—say dit weer",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:51:42.569580"
+    },
+    {
+      "english": "Slow down, your mouth will follow.",
+      "afrikaans": "Maak stadig, jou mond sal volg.",
+      "transliteration": "maak stadig, jou mond sal volg",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:51:42.569582"
+    },
+    {
+      "english": "Let the sentence land in you.",
+      "afrikaans": "Laat die sin in jou land.",
+      "transliteration": "laat die sin in jou land",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:51:42.569583"
     }
   ],
-  "last_updated": "2026-11-19T06:37:14.907954"
+  "last_updated": "2026-11-19T19:51:42.569585"
 }
