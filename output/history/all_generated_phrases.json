@@ -26074,7 +26074,42 @@
       "transliteration": "is yoew say-kos van-dag ba-eei vars",
       "category": "Restaurant",
       "generated_at": "2026-11-19T01:44:47.794099"
+    },
+    {
+      "english": "I need a ticket, please.",
+      "afrikaans": "Ek kort asseblief ’n kaartjie.",
+      "transliteration": "ek kort asseblief un kaartjie",
+      "category": "Travel",
+      "generated_at": "2026-11-19T06:37:14.907937"
+    },
+    {
+      "english": "Where is the bus stop, exactly?",
+      "afrikaans": "Waar is die bushalte, presies?",
+      "transliteration": "waar is die bushalte presies",
+      "category": "Travel",
+      "generated_at": "2026-11-19T06:37:14.907948"
+    },
+    {
+      "english": "How much is this, in rand?",
+      "afrikaans": "Hoeveel kos dit, in rand?",
+      "transliteration": "hoevle kos dit in rand",
+      "category": "Travel",
+      "generated_at": "2026-11-19T06:37:14.907950"
+    },
+    {
+      "english": "Is this seat taken, or free?",
+      "afrikaans": "Is hierdie sitplek geneem, of vry?",
+      "transliteration": "is hierdie sitplek geneem of vry",
+      "category": "Travel",
+      "generated_at": "2026-11-19T06:37:14.907951"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "afrikaans": "Kan jy my wys op die kaart?",
+      "transliteration": "kan jy my wys op die kaart",
+      "category": "Travel",
+      "generated_at": "2026-11-19T06:37:14.907953"
     }
   ],
-  "last_updated": "2026-11-19T01:44:47.794100"
+  "last_updated": "2026-11-19T06:37:14.907954"
 }
