@@ -26039,7 +26039,42 @@
       "transliteration": "Die glipsluiter op my baadjie is stukkend.",
       "category": "Clothes",
       "generated_at": "2026-11-18T23:39:37.292491"
+    },
+    {
+      "english": "Hi, we’d like a table, please.",
+      "afrikaans": "Goeie dag, ons soek ’n tafel, asseblief.",
+      "transliteration": "goy-eh dag, ons soek een tafel, as-se-blief",
+      "category": "Restaurant",
+      "generated_at": "2026-11-19T01:44:47.794083"
+    },
+    {
+      "english": "How long is the wait for food?",
+      "afrikaans": "Hoe lank wag ons vir kos?",
+      "transliteration": "ho-eh lank wag ons vir kos",
+      "category": "Restaurant",
+      "generated_at": "2026-11-19T01:44:47.794095"
+    },
+    {
+      "english": "Can we have menus, please?",
+      "afrikaans": "Kan ons asseblief spyskaarte kry?",
+      "transliteration": "kan ons as-se-blief spyss-kart-eh kry",
+      "category": "Restaurant",
+      "generated_at": "2026-11-19T01:44:47.794096"
+    },
+    {
+      "english": "I’m allergic to peanuts, by the way.",
+      "afrikaans": "Ek is allergies vir grondboontjies, terloops.",
+      "transliteration": "ek ees al-er-gies fer grond-boon-tjies, teh-roe-loops",
+      "category": "Restaurant",
+      "generated_at": "2026-11-19T01:44:47.794098"
+    },
+    {
+      "english": "Is your seafood very fresh today?",
+      "afrikaans": "Is jou seekos vandag baie vars?",
+      "transliteration": "is yoew say-kos van-dag ba-eei vars",
+      "category": "Restaurant",
+      "generated_at": "2026-11-19T01:44:47.794099"
     }
   ],
-  "last_updated": "2026-11-18T23:39:37.292493"
+  "last_updated": "2026-11-19T01:44:47.794100"
 }
