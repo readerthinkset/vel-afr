@@ -26284,7 +26284,42 @@
       "transliteration": "mah wang word rooierig van die son",
       "category": "Body Parts",
       "generated_at": "2026-11-20T06:24:35.873682"
+    },
+    {
+      "english": "Look over there, not at me.",
+      "afrikaans": "Kyk daarheen, nie na my nie.",
+      "transliteration": "Kjik daar-hin, nie na my nie",
+      "category": "Directions",
+      "generated_at": "2026-11-20T19:31:30.081864"
+    },
+    {
+      "english": "Walk straight ahead, then turn left.",
+      "afrikaans": "Stap reguit vorentoe, draai links.",
+      "transliteration": "Stap reg-uit voor-entoe, draai links",
+      "category": "Directions",
+      "generated_at": "2026-11-20T19:31:30.081877"
+    },
+    {
+      "english": "Go around the corner, carefully now.",
+      "afrikaans": "Gaan om die draaihoek, versigtig nou.",
+      "transliteration": "Gaan om die draai-hoek, versigtig nou",
+      "category": "Directions",
+      "generated_at": "2026-11-20T19:31:30.081879"
+    },
+    {
+      "english": "Stop here, and wait quietly.",
+      "afrikaans": "Staan hier stil, en wag rustig.",
+      "transliteration": "Staan hier stil, en wag rustig",
+      "category": "Directions",
+      "generated_at": "2026-11-20T19:31:30.081881"
+    },
+    {
+      "english": "Please come closer, I’ll show you.",
+      "afrikaans": "Kom asseblief nader, ek wys jou.",
+      "transliteration": "Kom asseblief nader, ek wys jou",
+      "category": "Directions",
+      "generated_at": "2026-11-20T19:31:30.081882"
     }
   ],
-  "last_updated": "2026-11-20T06:24:35.873684"
+  "last_updated": "2026-11-20T19:31:30.081884"
 }
