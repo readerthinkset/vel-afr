@@ -26529,7 +26529,42 @@
       "transliteration": "VER-min-der SKULD, met EL-ke pa-ai-EMENT.",
       "category": "Finance",
       "generated_at": "2026-11-21T20:25:53.285848"
+    },
+    {
+      "english": "Now, let's get going, please.",
+      "afrikaans": "Nou, kom ons begin asseblief.",
+      "transliteration": "nou, kom ons begin asseblief",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:04:37.314269"
+    },
+    {
+      "english": "After a while, we’ll meet up.",
+      "afrikaans": "Na ’n rukkie, sien ons mekaar.",
+      "transliteration": "na an rukkie, sien ons mekaar",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:04:37.314283"
+    },
+    {
+      "english": "Tomorrow morning, I’ll call you.",
+      "afrikaans": "Môreoggend bel ek jou.",
+      "transliteration": "more-oggend bel ek jou",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:04:37.314284"
+    },
+    {
+      "english": "Tonight, we eat together at home.",
+      "afrikaans": "Vanavond eet ons saam by die huis.",
+      "transliteration": "vanavond eet ons saam by die huis",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:04:37.314285"
+    },
+    {
+      "english": "In an hour, I’m on my way.",
+      "afrikaans": "Oor ’n uur is ek oppad.",
+      "transliteration": "oor an uur is ek oppad",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:04:37.314287"
     }
   ],
-  "last_updated": "2026-11-21T20:25:53.285850"
+  "last_updated": "2026-11-21T22:04:37.314291"
 }
