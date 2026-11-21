@@ -26424,7 +26424,42 @@
       "transliteration": "ek bewe wanneer die klop terugkom",
       "category": "Music",
       "generated_at": "2026-11-21T01:07:34.108843"
+    },
+    {
+      "english": "The sun is getting warmer now.",
+      "afrikaans": "Die son word nou warmer.",
+      "transliteration": "di son word nou war-mer",
+      "category": "Weather",
+      "generated_at": "2026-11-21T06:15:19.992841"
+    },
+    {
+      "english": "Clouds are drifting in slowly.",
+      "afrikaans": "Wolke dryf stadig in.",
+      "transliteration": "wol-ke dryf stad-ig in",
+      "category": "Weather",
+      "generated_at": "2026-11-21T06:15:19.992852"
+    },
+    {
+      "english": "A breeze brushes my face.",
+      "afrikaans": "’n Buiende bries raak my gesig.",
+      "transliteration": "un bries raak my ge-sig",
+      "category": "Weather",
+      "generated_at": "2026-11-21T06:15:19.992854"
+    },
+    {
+      "english": "The air smells fresh after rain.",
+      "afrikaans": "Die lug ruik vars ná reën.",
+      "transliteration": "di lug ruik vars na reen",
+      "category": "Weather",
+      "generated_at": "2026-11-21T06:15:19.992856"
+    },
+    {
+      "english": "Rain is falling, light and steady.",
+      "afrikaans": "Reën val liggies en gereeld.",
+      "transliteration": "reen val lig-gi-es en ge-reeld",
+      "category": "Weather",
+      "generated_at": "2026-11-21T06:15:19.992857"
     }
   ],
-  "last_updated": "2026-11-21T01:07:34.108844"
+  "last_updated": "2026-11-21T06:15:19.992859"
 }
