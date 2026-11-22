@@ -26564,7 +26564,42 @@
       "transliteration": "oor an uur is ek oppad",
       "category": "Time",
       "generated_at": "2026-11-21T22:04:37.314287"
+    },
+    {
+      "english": "Help me, I’m bleeding badly.",
+      "afrikaans": "Help my asseblief, ek bloei swaar.",
+      "transliteration": "Help my asseblief, ek bloei swaar.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T00:08:05.233929"
+    },
+    {
+      "english": "Stop, I think I fainted.",
+      "afrikaans": "Stop, ek dink ek het flou geword.",
+      "transliteration": "Stop, ek dink ek het flou geword.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T00:08:05.233946"
+    },
+    {
+      "english": "I swallowed medicine by accident, help.",
+      "afrikaans": "Ek het per ongeluk medisyne ingesluk.",
+      "transliteration": "Ek het per ongeluk medisyne ingesluk.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T00:08:05.233948"
+    },
+    {
+      "english": "My child won’t wake up, please.",
+      "afrikaans": "My kind wil nie wakker word nie.",
+      "transliteration": "My kind wil nie wakker word nie.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T00:08:05.233949"
+    },
+    {
+      "english": "There’s a gas smell, get out!",
+      "afrikaans": "Daar is ’n gasreuk, kom uit!",
+      "transliteration": "Daar is ’n gasreuk, kom uit!",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T00:08:05.233950"
     }
   ],
-  "last_updated": "2026-11-21T22:04:37.314291"
+  "last_updated": "2026-11-22T00:08:05.233953"
 }
