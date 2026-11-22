@@ -26634,7 +26634,42 @@
       "transliteration": "STAAN nou op, strek jou BE-ne",
       "category": "Health",
       "generated_at": "2026-11-22T05:48:00.827535"
+    },
+    {
+      "english": "Hello, so glad you made it.",
+      "afrikaans": "Hallo, ek is so bly jy is hier.",
+      "transliteration": "HA-loh, ek is so bly yoo- is hier.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T18:56:26.829444"
+    },
+    {
+      "english": "Hi there, welcome to our home.",
+      "afrikaans": "Haai, welkom by ons huis.",
+      "transliteration": "Hai, welkom by ons huis.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T18:56:26.829457"
+    },
+    {
+      "english": "Good to see you again today.",
+      "afrikaans": "Goeie om jou weer vandag te sien.",
+      "transliteration": "Goe-eeh um jow weer van-dag te sien.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T18:56:26.829458"
+    },
+    {
+      "english": "Greetings, it’s nice to meet you.",
+      "afrikaans": "Goeie dag, dis lekker om jou te ontmoet.",
+      "transliteration": "Goe-eeh dag, dis lek-ker um jow te ont-moet.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T18:56:26.829459"
+    },
+    {
+      "english": "Welcome back, we missed you.",
+      "afrikaans": "Welkom terug, ons het jou gemis.",
+      "transliteration": "Welkom terug, ons het jow geh-mis.",
+      "category": "Greetings",
+      "generated_at": "2026-11-22T18:56:26.829461"
     }
   ],
-  "last_updated": "2026-11-22T05:48:00.827536"
+  "last_updated": "2026-11-22T18:56:26.829463"
 }
