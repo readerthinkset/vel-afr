@@ -26599,7 +26599,42 @@
       "transliteration": "Daar is ’n gasreuk, kom uit!",
       "category": "Emergency",
       "generated_at": "2026-11-22T00:08:05.233950"
+    },
+    {
+      "english": "Drink water, before you feel thirsty.",
+      "afrikaans": "Drink water, voor jy dors word.",
+      "transliteration": "drink WAH-ter, vOr FOE jy dors word",
+      "category": "Health",
+      "generated_at": "2026-11-22T05:48:00.827506"
+    },
+    {
+      "english": "Eat slowly, let your stomach catch up.",
+      "afrikaans": "Eet stadig, laat jou maag byhou.",
+      "transliteration": "EET sta-dig, laaT jou maag BAI-hou",
+      "category": "Health",
+      "generated_at": "2026-11-22T05:48:00.827528"
+    },
+    {
+      "english": "Add fruit today, keep cravings lower.",
+      "afrikaans": "Voeg vandag vrugte by, hou drange laer.",
+      "transliteration": "VOEG VAN-dag VRUG-te by, hou DRAN-ge laer",
+      "category": "Health",
+      "generated_at": "2026-11-22T05:48:00.827529"
+    },
+    {
+      "english": "Take a deep breath, calm your mind.",
+      "afrikaans": "Neem ’n diep asem, kalmeer jou gedagtes.",
+      "transliteration": "NEEM u diep A-sem, kaal-meer jou ge-dag-tes",
+      "category": "Health",
+      "generated_at": "2026-11-22T05:48:00.827530"
+    },
+    {
+      "english": "Stand up now, stretch your legs.",
+      "afrikaans": "Staan nou op, strek jou bene.",
+      "transliteration": "STAAN nou op, strek jou BE-ne",
+      "category": "Health",
+      "generated_at": "2026-11-22T05:48:00.827535"
     }
   ],
-  "last_updated": "2026-11-22T00:08:05.233953"
+  "last_updated": "2026-11-22T05:48:00.827536"
 }
