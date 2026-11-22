@@ -26704,7 +26704,42 @@
       "transliteration": "Jou glimlag vind my altyd, op sy manier.",
       "category": "Friendship",
       "generated_at": "2026-11-22T20:40:53.660129"
+    },
+    {
+      "english": "Hi, I’d like to buy this.",
+      "afrikaans": "Goeie dag, ek wil graag hierdie koop.",
+      "transliteration": "Goeie dag, ek wil graag hierdie koop.",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:19:46.171658"
+    },
+    {
+      "english": "What’s the price for this one?",
+      "afrikaans": "Hoeveel kos hierdie een?",
+      "transliteration": "Hoeveel kos hierdie een?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:19:46.171673"
+    },
+    {
+      "english": "Is this available in another colour?",
+      "afrikaans": "Is dit beskikbaar in ’n ander kleur?",
+      "transliteration": "Is dit beskikbaar in ’n ander kleur?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:19:46.171674"
+    },
+    {
+      "english": "Do you have it in black too?",
+      "afrikaans": "Het julle dit ook in swart?",
+      "transliteration": "Het julle dit ook in swart?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:19:46.171675"
+    },
+    {
+      "english": "Can I check the sizes, please?",
+      "afrikaans": "Kan ek asseblief die groottes nagaan?",
+      "transliteration": "Kan ek asseblief die groottes nagaan?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T22:19:46.171677"
     }
   ],
-  "last_updated": "2026-11-22T20:40:53.660131"
+  "last_updated": "2026-11-22T22:19:46.171679"
 }
