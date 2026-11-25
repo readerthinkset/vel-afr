@@ -27124,7 +27124,42 @@
       "transliteration": "ekh het vyf piesangs by die winkel gekoop",
       "category": "Numbers",
       "generated_at": "2026-11-25T03:24:52.508623"
+    },
+    {
+      "english": "Can we get a table for two?",
+      "afrikaans": "Kan ons asseblief vir twee sitplekke kry?",
+      "transliteration": "Kan ons asseblief vir twee sitplekke kry?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T07:41:05.312269"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "afrikaans": "Het julle glutenvrye opsies beskikbaar?",
+      "transliteration": "Het julle glutenvrye opsies beskikbaar?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T07:41:05.312289"
+    },
+    {
+      "english": "Is the chef’s special very spicy?",
+      "afrikaans": "Is die sjef se spesiaal baie pittig?",
+      "transliteration": "Is die sjef se spesiaal baie pittig?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T07:41:05.312293"
+    },
+    {
+      "english": "What’s good if I love seafood?",
+      "afrikaans": "Wat is lekker as ek van seekos hou?",
+      "transliteration": "Wat is lekker as ek van seekos hou?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T07:41:05.312295"
+    },
+    {
+      "english": "Could we order one more round?",
+      "afrikaans": "Kan ons nog ’n ronde bestel?",
+      "transliteration": "Kan ons nog ’n ronde bestel?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T07:41:05.312297"
     }
   ],
-  "last_updated": "2026-11-25T03:24:52.508626"
+  "last_updated": "2026-11-25T07:41:05.312299"
 }
