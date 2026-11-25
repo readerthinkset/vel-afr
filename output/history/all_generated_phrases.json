@@ -27194,7 +27194,42 @@
       "transliteration": "Vra vir hulp, en praat weer.",
       "category": "Inspiration",
       "generated_at": "2026-11-25T20:57:17.063707"
+    },
+    {
+      "english": "Come with me, this way.",
+      "afrikaans": "Kom saam met my, hierheen.",
+      "transliteration": "kom saam met my, hierheen",
+      "category": "Directions",
+      "generated_at": "2026-11-25T22:59:08.671833"
+    },
+    {
+      "english": "Turn left at the next street.",
+      "afrikaans": "Slaan links by die volgende straat.",
+      "transliteration": "slaan links by die volgende straat",
+      "category": "Directions",
+      "generated_at": "2026-11-25T22:59:08.671850"
+    },
+    {
+      "english": "Keep going until you see a shop.",
+      "afrikaans": "Gaan aan tot jy ’n winkel sien.",
+      "transliteration": "gaan aan tot jy 'n winkel sien",
+      "category": "Directions",
+      "generated_at": "2026-11-25T22:59:08.671851"
+    },
+    {
+      "english": "Walk straight, don’t slow down.",
+      "afrikaans": "Loop reguit, moenie vertraag nie.",
+      "transliteration": "loop reguit, moenie vertraag nie",
+      "category": "Directions",
+      "generated_at": "2026-11-25T22:59:08.671852"
+    },
+    {
+      "english": "Go past the school, then turn right.",
+      "afrikaans": "Gaan verby die skool, draai dan regs.",
+      "transliteration": "gaan verby die skool, draai dan regs",
+      "category": "Directions",
+      "generated_at": "2026-11-25T22:59:08.671853"
     }
   ],
-  "last_updated": "2026-11-25T20:57:17.063710"
+  "last_updated": "2026-11-25T22:59:08.671854"
 }
