@@ -27264,7 +27264,42 @@
       "transliteration": "Sap-pie-gee ta-ma-ties, in een ein-vou-dig-e slaai.",
       "category": "Food",
       "generated_at": "2026-11-26T00:52:14.321700"
+    },
+    {
+      "english": "Thank you, I notice your effort.",
+      "afrikaans": "Dankie, ek sien jou moeite raak.",
+      "transliteration": "Dan-kie, ek sien jou moe-te raak.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:41:22.282140"
+    },
+    {
+      "english": "You’re doing great, keep going.",
+      "afrikaans": "Jy doen goed, hou net aan.",
+      "transliteration": "Jy doen goed, hou net aan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:41:22.282154"
+    },
+    {
+      "english": "Here, take a deep breath, okay?",
+      "afrikaans": "Neem asem, hier by my, reg?",
+      "transliteration": "Neeem a-seem, hier by my, reg?",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:41:22.282155"
+    },
+    {
+      "english": "I’ll stand with you, no matter what.",
+      "afrikaans": "Ek staan langs jou, maak nie saak.",
+      "transliteration": "Ek staan langs jou, maak nie saak.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:41:22.282157"
+    },
+    {
+      "english": "That was thoughtful of you.",
+      "afrikaans": "Dit was deurdags van jou.",
+      "transliteration": "Dit was deur-dags van jou.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:41:22.282158"
     }
   ],
-  "last_updated": "2026-11-26T00:52:14.321702"
+  "last_updated": "2026-11-26T02:41:22.282160"
 }
