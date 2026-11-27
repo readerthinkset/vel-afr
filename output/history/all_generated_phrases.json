@@ -27425,7 +27425,28 @@
       "transliteration": "Sê dit, soos jy dit bedoel",
       "category": "Confidence",
       "generated_at": "2026-11-27T11:47:23.377774"
+    },
+    {
+      "english": "My neck hurts, especially when I turn.",
+      "afrikaans": "My nek maak seer, veral wanneer ek draai.",
+      "transliteration": "Mai nek maak seer, veral wanneer ek draai",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:24:20.459464"
+    },
+    {
+      "english": "Your throat feels tight, like you’re sick.",
+      "afrikaans": "Jou keel voel styf, asof jy siek is.",
+      "transliteration": "Jou keel voel styf, asof jy siek is",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:24:20.459479"
+    },
+    {
+      "english": "Her shoulder feels heavy after work.",
+      "afrikaans": "Haar skouer voel swaar na werk.",
+      "transliteration": "Haar skouer voel swaar na werk",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:24:20.459480"
     }
   ],
-  "last_updated": "2026-11-27T11:47:23.377775"
+  "last_updated": "2026-11-27T19:24:20.459481"
 }
