@@ -27467,7 +27467,28 @@
       "transliteration": "Dis 'n won-der-lik-e plan, kom ons doen dit.",
       "category": "Common Expressions",
       "generated_at": "2026-11-28T03:43:40.138412"
+    },
+    {
+      "english": "Help, there’s smoke in the hallway.",
+      "afrikaans": "Help, daar is rook in die gang.",
+      "transliteration": "Help, daar is rouk in die gang.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T11:24:13.021006"
+    },
+    {
+      "english": "Please, move away from the crowd.",
+      "afrikaans": "Neem asseblief afstand van die skare.",
+      "transliteration": "Neem asseblief afstand van die skare.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T11:24:13.021027"
+    },
+    {
+      "english": "Call an ambulance, I feel faint.",
+      "afrikaans": "Bel ’n ambulans, ek voel flou.",
+      "transliteration": "Bel ’n ambulanS, ek voel flou.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T11:24:13.021029"
     }
   ],
-  "last_updated": "2026-11-28T03:43:40.138414"
+  "last_updated": "2026-11-28T11:24:13.021031"
 }
